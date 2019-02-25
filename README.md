@@ -133,16 +133,16 @@ File a `meta` issue if you want to create a new label or if you want
 to be added as a responsible dev.
 
 * `meta` – changes to the `problem-solving` repo and this document
-  * @AlexDaniel
-  * @jnthn
+  * [@AlexDaniel](https://github.com/AlexDaniel)
+  * [@jnthn](https://github.com/jnthn)
 * `language` – changes to the Perl 6 language
-  * @jnthn
+  * [@jnthn](https://github.com/jnthn)
 * `rakudo` – big changes to rakudo
-  * @jnthn
+  * [@jnthn](https://github.com/jnthn)
 * `moarvm` – big changes to moarvm
-  * @jnthn
+  * [@jnthn](https://github.com/jnthn)
 * `documentation`
-  * @JJ
+  * [@JJ](https://github.com/JJ)
 
 
 
@@ -150,7 +150,7 @@ to be added as a responsible dev.
 
 File a `meta` issue if you want to be added to this list.
 
-* @AlexDaniel
-* @jnthn
-* @JJ
+* [@AlexDaniel](https://github.com/AlexDaniel)
+* [@jnthn](https://github.com/jnthn)
+* [@JJ](https://github.com/JJ)
 * …
