@@ -141,6 +141,8 @@ to be added as a responsible dev.
   * @jnthn
 * `moarvm` – big changes to moarvm
   * @jnthn
+* `documentation`
+  * @JJ
 
 
 
@@ -150,4 +152,5 @@ File a `meta` issue if you want to be added to this list.
 
 * @AlexDaniel
 * @jnthn
+* @JJ
 * …
