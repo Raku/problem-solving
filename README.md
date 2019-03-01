@@ -151,6 +151,8 @@ to be added as a responsible dev.
 File a `meta` issue if you want to be added to this list.
 
 * [@AlexDaniel](https://github.com/AlexDaniel)
-* [@jnthn](https://github.com/jnthn)
 * [@JJ](https://github.com/JJ)
+* [@jnthn](https://github.com/jnthn)
+* [@timo](https://github.com/timo)
+* [@ugexe](https://github.com/ugexe)
 * …
