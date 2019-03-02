@@ -153,6 +153,7 @@ File a `meta` issue if you want to be added to this list.
 * [@AlexDaniel](https://github.com/AlexDaniel)
 * [@JJ](https://github.com/JJ)
 * [@jnthn](https://github.com/jnthn)
+* [@masak](https://github.com/masak)
+* [@moritz](https://github.com/moritz)
 * [@timo](https://github.com/timo)
 * [@ugexe](https://github.com/ugexe)
-* …
