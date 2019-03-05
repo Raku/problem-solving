@@ -143,6 +143,8 @@ to be added as a responsible dev.
   * [@jnthn](https://github.com/jnthn)
 * `documentation`
   * [@JJ](https://github.com/JJ)
+* `unicode` – Unicode and encoding/decoding
+  * [@samcv](https://github.com/samcv)
 
 
 
@@ -152,8 +154,10 @@ File a `meta` issue if you want to be added to this list.
 
 * [@AlexDaniel](https://github.com/AlexDaniel)
 * [@JJ](https://github.com/JJ)
+* [@MasterDuke17](https://github.com/MasterDuke17)
 * [@jnthn](https://github.com/jnthn)
 * [@masak](https://github.com/masak)
 * [@moritz](https://github.com/moritz)
+* [@samcv](https://github.com/samcv)
 * [@timo](https://github.com/timo)
 * [@ugexe](https://github.com/ugexe)
