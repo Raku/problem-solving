@@ -1,3 +1,3 @@
-# meta-000001.md
+# Problem Solving
 
 See [README.md](README.md).
