@@ -59,7 +59,9 @@ PRs can only be submitted once all previous stages are completed. PRs
 should be submitted in `perl6/problem-solving` repository. The
 document in the PR should act as a documentation for the solution (as
 it will also be read later after it is accepted). This time all
-details should be provided.
+details should be provided. Keep your document consistent with other
+files in the repository (naming, directory structure, markup and so
+on).
 
 Assignees will request changes that are necessary to finalize the
 solution. Note that this process may require an actual implementation
