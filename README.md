@@ -137,13 +137,15 @@ to be added as a responsible dev.
 * `meta` – changes to the `problem-solving` repo and this document
   * [@AlexDaniel](https://github.com/AlexDaniel)
   * [@jnthn](https://github.com/jnthn)
-* `language` – changes to the Perl 6 language
+* `language` – changes to the [Perl 6 language](https://github.com/perl6/roast/)
   * [@jnthn](https://github.com/jnthn)
-* `rakudo` – big changes to rakudo
+* `rakudo` – big changes to [Rakudo](https://github.com/rakudo/rakudo/)
   * [@jnthn](https://github.com/jnthn)
-* `moarvm` – big changes to moarvm
+* `moarvm` – big changes to [MoarVM](https://github.com/MoarVM/MoarVM)
   * [@jnthn](https://github.com/jnthn)
-* `documentation`
+* `documentation` – big changes to
+  [Perl 6 documentation](https://github.com/perl6/doc/) and other learning
+  resources
   * [@JJ](https://github.com/JJ)
 * `unicode` – Unicode and encoding/decoding
   * [@samcv](https://github.com/samcv)
