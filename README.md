@@ -76,7 +76,7 @@ Note that all people (even non-devs) who have enough experience in
 affected areas are welcome to provide feedback. That being said, the
 assignee has the final word on decisions in the issue/PR, so they are
 free to engage in discussions as they see fit. In rare cases they can
-moderate/lock the discussion if so is unavoidable.
+moderate/lock the discussion if doing so is unavoidable.
 
 Once the assignee is happy with the proposal, the process moves to the
 next step.
