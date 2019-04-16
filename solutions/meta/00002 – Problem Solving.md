@@ -1,3 +1,3 @@
 # Problem Solving
 
-See [README.md](README.md).
+See [README.md](/README.md).
