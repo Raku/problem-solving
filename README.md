@@ -76,7 +76,7 @@ Note that all people (even non-devs) who have enough experience in
 affected areas are welcome to provide feedback. That being said, the
 assignee has the final word on decisions in the issue/PR, so they are
 free to engage in discussions as they see fit. In rare cases they can
-moderate/lock the discussion if so is unavoidable.
+moderate/lock the discussion if doing so is unavoidable.
 
 Once the assignee is happy with the proposal, the process moves to the
 next step.
@@ -164,4 +164,5 @@ File a `meta` issue if you want to be added to this list.
 * [@moritz](https://github.com/moritz)
 * [@samcv](https://github.com/samcv)
 * [@timo](https://github.com/timo)
+* [@tony-o](https://github.com/tony-o)
 * [@ugexe](https://github.com/ugexe)
