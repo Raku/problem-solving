@@ -152,6 +152,9 @@ to be added as a responsible dev.
 * `infrastructure` - servers, hosting, cloud, monitoring, backup and automation
   * [@rba](https://github.com/rba)
   * [@maettu](https://github.com/maettu)
+* `fallback` – if no other label fits
+  * [@AlexDaniel](https://github.com/AlexDaniel)
+  * [@jnthn](https://github.com/jnthn)
 
 ## Reviewers
 
