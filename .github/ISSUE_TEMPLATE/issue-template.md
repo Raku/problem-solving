@@ -1,6 +1,6 @@
 ---
 name: Report a problem
-about: ''
+about: Basic template for reporting problems
 title: ''
 labels: ''
 assignees: ''
