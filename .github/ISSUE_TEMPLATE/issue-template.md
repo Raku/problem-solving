@@ -1,6 +1,6 @@
 ---
-name: Issue template
-about: Reporting a problem
+name: Report a problem
+about: ''
 title: ''
 labels: ''
 assignees: ''
