@@ -161,6 +161,7 @@ to be added as a responsible dev.
 File a `meta` issue if you want to be added to this list.
 
 * [@AlexDaniel](https://github.com/AlexDaniel)
+* [@FCO](https://github.com/FCO)
 * [@JJ](https://github.com/JJ)
 * [@jnthn](https://github.com/jnthn)
 * [@lizmat](https://github.com/lizmat/)
