@@ -164,6 +164,7 @@ File a `meta` issue if you want to be added to this list.
 * [@JJ](https://github.com/JJ)
 * [@jnthn](https://github.com/jnthn)
 * [@lizmat](https://github.com/lizmat/)
+* [@kawaii]((https://github.com/kawaii/)
 * [@maettu](https://github.com/maettu)
 * [@masak](https://github.com/masak)
 * [@MasterDuke17](https://github.com/MasterDuke17)
