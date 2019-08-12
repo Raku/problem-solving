@@ -139,6 +139,7 @@ to be added as a responsible dev.
   * [@jnthn](https://github.com/jnthn)
 * `language` – changes to the [Perl 6 language](https://github.com/perl6/roast/)
   * [@jnthn](https://github.com/jnthn)
+  * [@vrurg](https://github.com/vrurg)
 * `rakudo` – big changes to [Rakudo](https://github.com/rakudo/rakudo/)
   * [@jnthn](https://github.com/jnthn)
 * `moarvm` – big changes to [MoarVM](https://github.com/MoarVM/MoarVM)
@@ -173,3 +174,4 @@ File a `meta` issue if you want to be added to this list.
 * [@timo](https://github.com/timo)
 * [@tony-o](https://github.com/tony-o)
 * [@ugexe](https://github.com/ugexe)
+* [@vrurg](https://github.com/vrurg)
