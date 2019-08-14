@@ -14,6 +14,11 @@ global search/replace of `.perl` to `.raku` (both in method names and in
 calls) in `src/core`, `src/Perl6` and `lib`.  A new `Mu.perl` method should
 issue a DEPRECATED message, and then call `Mu.raku`.
 
+Renaming to `\.code` currently clashes with `CallFrame.code`, and visually
+clashes with the `\.codes` method.  Renaming `CallFrame.code` to
+`CallFrame.codeobj` and `\.codes` to `\.codepoints` appears to be an option
+to be discussed further.
+
 ## Documentation changes
 
 Wherever `Perl 6` is mentioned in the documentation, this should be changed
