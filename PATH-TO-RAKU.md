@@ -28,6 +28,14 @@ if someone is redirected, that a small explanation of the name change is
 offered and that the visitor is indeed at the place they were planning to
 be.
 
+## IRC Channels
+
+The IRC channels used by Perl 6 users on freenode (#perl6\*) will need to
+be renamed or closed / opened with the new name (#raku\*).  Colabti.org will
+need to be asked to log these channels, so that we can have backlog again.
+Further down the road, it would probably be a wise idea to make IRC channel
+logging one of the infrastructure tasks.
+
 ## External references
 
 Many places on the Internet refer to `Perl 6`, e.g. Wikipedia.  These
