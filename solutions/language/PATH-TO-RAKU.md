@@ -8,7 +8,7 @@ cooperation.  It will affect people in foreseen and unforeseen ways.
 
 ## Language changes
 
-## .perl
+### .perl
 
 The `.perl` method should be deprecated in 6.e, and removed in 6.f/g.  It
 should be replaced by a `.raku` method.  This could be implemented by a
@@ -21,13 +21,19 @@ clashes with the `\.codes` method.  Renaming `CallFrame.code` to
 `CallFrame.codeobj` and `\.codes` to `\.codepoints` appears to be an option
 to be discussed further.
 
-## Versioning
+### Versioning
 
 Because the next language release (6.e) will not coincide with
 the rename, no changes to versioning of the language need to be done.
 Given we are no longer forced to have "6" in the version, there are now
 more options to do language versioning properly, and this aspect will
 need to be discussed separately.
+
+### NQP
+
+The acronym for NQP is Not Quite Perl.  It feels that this could stay, or maybe
+officially document that NQP doesn't stand for anything anymore, or find a
+backcronym for it, such as "Not Quite Peanuts".
 
 ## Documentation changes
 
