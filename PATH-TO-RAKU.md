@@ -6,8 +6,6 @@ complete in scope or in time.  To change a name of a project that has been
 running for 19+ years will take time, a lot of effort and a lot of
 cooperation.  It will affect people in foreseen and unforeseen ways.
 
-The "Velvet Divorce" could serve as a model on how to treat this.
-
 ## Language changes
 
 The `.perl` method should be deprecated in 6.e, and removed in 6.f/g.  It
