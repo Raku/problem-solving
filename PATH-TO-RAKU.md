@@ -73,11 +73,12 @@ should be symlinks.
 
 ### Extensions
 
-The extension `.rk` for scripts, and `.rkm` for modules, will become the
-defacto standards for files containing `Raku` code.  The old `.pm` and
-`.pm6` extensions will continue to be supported for 6.e.  In 6.f, the
-`.pm` and `.pm6` extensions should be marked as DEPRECATED, causing a message
-to be generated when the module is loaded.
+The extension `.rk` for scripts, `.rkm` for modules, and `.rd` for
+documentation (POD6) will become the defacto standards for files containing
+`Raku` code or documentation.  The old `.pm`, `.pm6` and `.pod6` extensions
+will continue to be supported for 6.e.  In 6.f, the `.pm`, `.pm6` and `.pod6`
+extensions should be marked as DEPRECATED, causing a message to be generated
+when the module is loaded.
 
 On Windows some more trickery may be involved to mark a script with the
 `.rk` extension as executable.
