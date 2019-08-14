@@ -104,6 +104,11 @@ materials.  Announcement should be coordinated, e.g. by a blog post on
 `opensource.com` or similar outlets, followed up by links on the various
 social media outlets, such as Twitter, Facebook, Hacker News, Reddit, etc.
 
+Specific attention should be given for the announcement of Raku in non-latin
+script countries, such as India, Japan, China, Taiwan.  Raku with its more
+than excellent Unicode support, should be able to make a big splash for
+developers in those regions.
+
 ## Ecosystem changes
 
 From the standpoint of users, there should not be any change: `zef` should
