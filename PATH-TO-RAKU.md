@@ -8,6 +8,8 @@ cooperation.  It will affect people in foreseen and unforeseen ways.
 
 ## Language changes
 
+## .perl
+
 The `.perl` method should be deprecated in 6.e, and removed in 6.f/g.  It
 should be replaced by a `.raku` method.  This could be implemented by a
 global search/replace of `.perl` to `.raku` (both in method names and in
@@ -18,6 +20,25 @@ Renaming to `\.code` currently clashes with `CallFrame.code`, and visually
 clashes with the `\.codes` method.  Renaming `CallFrame.code` to
 `CallFrame.codeobj` and `\.codes` to `\.codepoints` appears to be an option
 to be discussed further.
+
+## Versioning
+
+The approach for using letters to indicate language versions will be continued
+but without the mention of `6`.  And uppercase letters will be used, because
+mentioning `Raku D` looks much better then mentioning `Raku d`.
+
+The `use` statement is historically used to indicate the version of the
+compilation unit.  Since direct code compatibility with Perl 5 is no longer
+on the horizon, it seems like a good opportunity to remove any ambiguity
+from the `use` statement by moving that functionality to the `unit` statement.
+
+    unit :ver<D>;               # same as "use v6.d;"
+    unit :lang<Perl5>:ver<30>;  # if we have direct support for Perl 5.30
+
+Also, this would allow to specify compiler versions as well, although that
+might be a compiler specific feature:
+
+    unit :release<2019.07>;     # release 2019.07 or higher
 
 ## Documentation changes
 
