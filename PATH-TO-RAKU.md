@@ -23,30 +23,11 @@ to be discussed further.
 
 ## Versioning
 
-The approach for using letters to indicate language versions will be continued
-but without the mention of `6`.  And uppercase letters will be used, because
-mentioning `Raku D` looks much better then mentioning `Raku d`.
-
-The `use` statement is historically used to indicate the version of the
-compilation unit.  Since direct code compatibility with Perl 5 is no longer
-on the horizon, it seems like a good opportunity to remove any ambiguity
-from the `use` statement by moving that functionality to the `unit` statement.
-
-    unit :ver<D>;               # same as "use v6.d;"
-    unit :lang<Perl5>:ver<30>;  # if we have direct support for Perl 5.30
-
-Some kind of API should be conceived to actually hand the rest of the code
-of the compilation unit to another interpreter, so that the above :lang<Perl5>
-case could possibly be handled by `Inline::Perl5`.  And allow support for
-other languages, e.g. `:lang<Python>` to be handed over to `Inline::Python`.
-
-Also, this would allow to specify compiler versions as well, although that
-might be a compiler specific feature:
-
-    unit :release<2019.07>;     # release 2019.07 or higher
-
-Compilers would be free to either ignore additional named parameters, or
-warn about named parameters they do not understand.
+Because the next language release (6.e) will not coincide with
+the rename, no changes to versioning of the language need to be done.
+Given we are no longer forced to have "6" in the version, there are now
+more options to do language versioning properly, and this aspect will
+need to be discussed separately.
 
 ## Documentation changes
 
