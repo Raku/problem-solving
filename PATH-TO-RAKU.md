@@ -35,6 +35,11 @@ from the `use` statement by moving that functionality to the `unit` statement.
     unit :ver<D>;               # same as "use v6.d;"
     unit :lang<Perl5>:ver<30>;  # if we have direct support for Perl 5.30
 
+Some kind of API should be conceived to actually hand the rest of the code
+of the compilation unit to another interpreter, so that the above :lang<Perl5>
+case could possibly be handled by `Inline::Perl5`.  And allow support for
+other languages, e.g. `:lang<Python>` to be handed over to `Inline::Python`.
+
 Also, this would allow to specify compiler versions as well, although that
 might be a compiler specific feature:
 
