@@ -67,6 +67,10 @@ With symlinks / hard links added as appropriate to keep the old executable
 names working.  If at all technically possible, running a script using the
 `perl6` as the executor, should provide a DEPRECATED warning at some point.
 
+Since `rakudo` is the name of the implementation, the main executable that
+is created in the build process should have that name.  `raku` and `perl6`
+should be symlinks.
+
 ### Extensions
 
 The extension `.rk` for scripts, and `.rkm` for modules, will become the
