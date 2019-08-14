@@ -40,6 +40,9 @@ might be a compiler specific feature:
 
     unit :release<2019.07>;     # release 2019.07 or higher
 
+Compilers would be free to either ignore additional named parameters, or
+warn about named parameters they do not understand.
+
 ## Documentation changes
 
 Wherever `Perl 6` is mentioned in the documentation, this should be changed
