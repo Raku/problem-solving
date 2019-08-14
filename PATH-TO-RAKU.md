@@ -189,6 +189,24 @@ course open to not change their name, or to change it to something like
 "Foo Raku Meetup".  This could coincide with the official announcement,
 and maybe special events to celebrate the name change.
 
+## Effects on events
+
+Event organizers as always, are completely free in the naming of their events.
+If an event would like to cater for both `Perl` and `Raku` attendees, then
+this should be reflected in the name of the event.  An event with just `Raku`
+in its name, would appear to cater only for attendees interested in `Raku`.
+An event with just `Perl` in its name, would appear to cater for attendees
+interested in `Perl 5` only.  Suggestions for naming events are (where "Foo"
+is a place / country name):
+
+    The Foo Perl Community Workshop
+    The Foo Perl Family Workshop
+    The Foo Perl and Friends Workshop
+    The Foo Perl and Raku Conference
+    The Foo Raku and Friends Workshop
+
+etc. etc.
+
 ## Relationship with The Perl Foundation
 
 No changes should be necessary with regards to the relationship with The
