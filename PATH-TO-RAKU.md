@@ -9,16 +9,16 @@ cooperation.  It will affect people in foreseen and unforeseen ways.
 ## Language changes
 
 The `.perl` method should be deprecated in 6.e, and removed in 6.f/g.  It
-should be replaced by a `.code` method.  This could be implemented by a
-global search/replace of `.perl` to `.code` (both in method names and in
+should be replaced by a `.raku` method.  This could be implemented by a
+global search/replace of `.perl` to `.raku` (both in method names and in
 calls) in `src/core`, `src/Perl6` and `lib`.  A new `Mu.perl` method should
-issue a DEPRECATED message, and then call `Mu.code`.
+issue a DEPRECATED message, and then call `Mu.raku`.
 
 ## Documentation changes
 
 Wherever `Perl 6` is mentioned in the documentation, this should be changed
 to `Raku`.  A mention of `Perl 6` in the glossary should remain, and maybe
-in the documentation of the `.perl` (to be renamed to `.code`) method.
+in the documentation of the `.perl` (to be renamed to `.raku`) method.
 
 ## Website changes
 
