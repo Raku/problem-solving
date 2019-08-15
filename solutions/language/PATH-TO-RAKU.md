@@ -156,6 +156,17 @@ will need to be made for them.
 Projects, such as Comma and Cro do not need any notifications, but other
 sub-projects may need to get advance notice.
 
+## Effects on books
+
+Currently printed copies of books will probably need a sticker like "Covers
+the new exciting Raku programming language).
+
+Perl 6 books that have been open sourced, can be adapted by the community or
+the original author.  Since ebook sales currently outperform printed books
+by an order of magnitude, preparing another version of an ebook should be
+a relatively small effort, which can actually be distributed among many
+individuals using modern source control techniques..
+
 ## Effects on the Perl community
 
 There is a (small) part of the Perl community that welcomes Perl 6 leaving
