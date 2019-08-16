@@ -219,3 +219,10 @@ on continued development on all projects.
 
 Should The Perl Foundation decide to not want to have anything to do with
 `Raku`, only then should an alternate organisational support be discussed.
+
+However, since "Yet Another Society" is doing business as "The Perl
+Foundation", maybe it is an idea to create another "doing business as"
+called "The Raku Foundation".  Which would make it clear that "The Perl
+Foundation" is for Perl 5 only, whereas "The Raku Foundation" would be for
+Raku only.  While both are part of the Perl Mindset in the "Yet Another
+Society".
