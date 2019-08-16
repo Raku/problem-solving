@@ -61,19 +61,19 @@ make IRC channel logging one of the infrastructure tasks.
 
 ## External references
 
-Many places on the Internet refer to `Perl 6`, e.g. Wikipedia.  These
-references will need to be changed to `Raku`, with a small explanation of
-the name change.
+Many places on the Internet refer to `Perl 6`, e.g. Wikipedia and Rosetta
+code.  These references will need to be changed to `Raku`, with a small
+explanation of the name change.
 
 Many sites, such as Reddit and StackOverflow, use implicit / explicit `perl6`
 tags.  These will need to be changed or have a `raku` tag added, possibly
 with cooperation of the administrators.
 
-Sites such as PerlMonks appear to be really `Perl 5` focused, and could
-possible make that clear in their description, or change their description
-to specifically include `Raku`.  It would look like the `/r/perl` Reddit
-description can be changed to indicate that only `Perl 5` questions are
-on topic there.
+Sites such as PerlMonks appear to be really `Perl` (aka `Perl 5`) focused,
+and could possible make that clear in their description, or change their
+description to specifically include `Raku`.  It would look like the
+`/r/perl` Reddit description can be changed to indicate that only `Perl 5`
+questions are on topic there.
 
 ## Technical changes
 
