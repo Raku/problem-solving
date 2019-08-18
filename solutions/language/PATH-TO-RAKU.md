@@ -21,6 +21,10 @@ clashes with the `.codes` method.  Renaming `CallFrame.code` to
 `CallFrame.codeobj` and `.codes` to `.codepoints` appears to be an option
 to be discussed further.
 
+Also the `$*PERL` dynamic variable and the `Perl` class will need to be
+renamed, probably to `$*RAKU` and `Raku`, respectively.  After a deprecation
+cycle of course.
+
 ### Versioning
 
 Because the next language release (6.e) may not coincide with
