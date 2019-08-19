@@ -39,8 +39,7 @@ need to be discussed separately.
 ### NQP
 
 The acronym for NQP is Not Quite Perl.  It feels that this could stay, or maybe
-officially document that NQP doesn't stand for anything anymore, or find a
-backcronym for it, such as "Not Quite Peanuts" or "Not Quite Pottery".
+officially document that NQP doesn't stand for anything anymore.
 
 ## Documentation changes
 
