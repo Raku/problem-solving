@@ -153,6 +153,20 @@ announcements are also translated into appropriate languages for these regions.
 Raku, with its more than excellent Unicode support, should be able to make a
 big splash for developers in those regions.
 
+## Social Media
+
+Users who want to blog about `Raku` are suggested to always at least mention
+`Raku Programming Language` in their blog post, or in the boilerplate of their
+blog posts.  Mentioning of `Perl 6` in such blog posts is **discouraged**,
+unless the blog post is actually about the renaming process.
+
+When using social media that use hash-tags, users are suggested to use the
+`#raku-lang` hash-tag, and **not** use the `#perl6` hash-tag, unless the
+post is actually about the renaming process.
+
+Of course, the same applies to more official social media usage by the core
+development team.
+
 ## Ecosystem changes
 
 From the standpoint of users, there should not be any change: `zef` should
