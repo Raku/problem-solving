@@ -178,7 +178,12 @@ to change their repo-name to not include `perl6-` to avoid future confusion.
 ## Effects on running sub-projects
 
 Projects, such as Comma and Cro do not need any notifications, but other
-sub-projects may need to get advance notice.
+sub-projects may need to get advance notice.  An inventory of these
+sub-projects will need to be made, and their maintainers be notified
+individually, rather than through social media.  This is both to stress
+the urgency for a change, and to be able to present a "clean slate" to the
+general public when announcements about the name change *are* made through
+social media.
 
 ## Effects on books
 
