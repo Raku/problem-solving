@@ -24,6 +24,12 @@ Also the `$*PERL` dynamic variable and the `Perl` class will need to be
 renamed, probably to `$*RAKU` and `Raku`, respectively.  After a deprecation
 cycle of course.
 
+### Pragmas
+
+The `use isms <Perl5>` should be DEPRECATED and changed to `use isms <Perl>`.
+Similarly `use Foo:from<Perl5>` to `use Foo:from<Perl>` and the `:lang`
+parameter to `EVAL`.
+
 ### Versioning
 
 Because the next language release (6.e) may not coincide with
