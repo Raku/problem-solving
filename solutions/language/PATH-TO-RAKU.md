@@ -142,10 +142,10 @@ be seen as a lasting tribute (easter egg) to the origin of "Raku".
 ## Marketing changes
 
 Renaming `Perl 6` to `Raku` is an event that should be used to get maximum
-marketing result.  This will need a new marketing repo, with `Raku` marketing
-materials.  Announcement should be coordinated, e.g. by a blog post on
-`opensource.com` or similar outlets, followed up by links on the various
-social media outlets, such as Twitter, Facebook, Hacker News, Reddit, etc.
+marketing result.  This will need `Raku` marketing materials.  Announcement
+should be coordinated, e.g. by a blog post on `opensource.com` or similar
+outlets, followed up by links on the various social media outlets, such as
+Twitter, Facebook, Hacker News, Reddit, etc.
 
 Specific attention should be given for the announcement of Raku in non-latin
 script countries, such as India, Japan, China, Taiwan.  Raku with its more
