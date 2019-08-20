@@ -56,6 +56,10 @@ Wherever `Perl 6` is mentioned in the documentation, this should be changed
 to `Raku`.  A mention of `Perl 6` in the glossary should remain, and maybe
 in the documentation of the `.perl` (to be renamed to `.raku`) method.
 
+A mention to `Perl 6` should only occur when a redirect from `docs.perl6.org`
+has been detected / or a special URL to redirect to has been followed (e.g.
+https://documentation.raku-lang.org/?from=perl6).
+
 ## Website changes
 
 Websites that have `perl6` in their name, should redirect to their
