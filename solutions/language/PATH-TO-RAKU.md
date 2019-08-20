@@ -148,9 +148,10 @@ outlets, followed up by links on the various social media outlets, such as
 Twitter, Facebook, Hacker News, Reddit, etc.
 
 Specific attention should be given for the announcement of Raku in non-latin
-script countries, such as India, Japan, China, Taiwan.  Raku with its more
-than excellent Unicode support, should be able to make a big splash for
-developers in those regions.
+script countries (such as India, Japan, China, Taiwan) by making sure any
+announcements are also translated into appropriate languages for these regions.
+Raku, with its more than excellent Unicode support, should be able to make a
+big splash for developers in those regions.
 
 ## Ecosystem changes
 
