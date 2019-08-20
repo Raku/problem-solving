@@ -33,10 +33,13 @@ parameter to `EVAL`.
 ### Versioning
 
 Because the next language release (6.e) may not coincide with
-the rename, no changes to versioning of the language need to be done.
-However, since a new language version would be an excellent marketing
-opportunity, maybe the rename should coincide with a new language version
-relese.
+the rename, no changes to versioning of the language need to be done.  The
+next release *will* however be a Raku release, but should be otherwise
+completely compatible with previous releases.
+
+A new *language* version would be the opportunity to make the name change
+more widely known with associated marketing efforts.  But this will *not*
+be with the next (monthlyish) release.
 
 Given we are no longer forced to have "6" in the version, there are now
 more options to do language versioning properly, and this aspect will
