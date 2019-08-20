@@ -47,8 +47,9 @@ need to be discussed separately.
 
 ### NQP
 
-The acronym for NQP is Not Quite Perl.  It feels that this could stay, or maybe
-officially document that NQP doesn't stand for anything anymore.
+The acronym for NQP is Not Quite Perl.  It stays that way, so no changes
+to documentation are needed.  Generally, the MoarVM / NQP construct should
+not matter a lot for the average user.
 
 ## Documentation changes
 
