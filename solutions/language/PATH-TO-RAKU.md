@@ -203,6 +203,11 @@ that community.  But in general, it appears that Perl community members would
 like to have channels open between members that only do `Perl 5`, and members
 that only do `Raku`.
 
+The name change of `Perl 6` to `Raku` is also intended to have a healing
+effect on a community that has been effectively split for many years.
+It is the hope of the Raku core development team that future events will
+continue to cater for both `Perl` as well as `Raku` presentations.
+
 ## Effects on user groups
 
 Each Perl user group (Perl Monger group) will have to decide for themselves
