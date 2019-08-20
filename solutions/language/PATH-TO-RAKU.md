@@ -171,8 +171,9 @@ alternatives will need to be found and/or implemented.
 ## Effects on modules in ecosystem
 
 Many modules either mention "perl6-" in their repo name, or mention "Perl 6"
-in their documentation.  These will have to be scanned and Pull Requests
-will need to be made for them.
+in their documentation.  The documentation will have to be scanned and Pull
+Requests will need to be made / generated for them.  Developers will be asked
+to change their repo-name to not include `perl6-` to avoid future confusion.
 
 ## Effects on running sub-projects
 
