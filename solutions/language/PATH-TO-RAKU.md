@@ -173,8 +173,9 @@ change either.
 
 On PAUSE, Perl 6 distributions are automatically uploaded to a "Perl6"
 subdirectory, but this is completely transparent to both the author as well
-as anything else that needs to look at that.  So for the foreseeable future,
-no changes will be needed there.
+as anything else that needs to look at that as long as a file `META6.json`
+exists in the distribution.  So for the foreseeable future, no changes will
+be needed there.
 
 Should PAUSE decide to no longer support `Raku` modules in its system, then
 alternatives will need to be found and/or implemented.
