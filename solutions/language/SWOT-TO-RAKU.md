@@ -2,8 +2,9 @@
 
 ## Strengths
 
-- no longer linked to bad reputation of "Perl"
+- removes the confusion that Perl 6 is Perl version 6 (a new version of Perl).
 - frees up higher versioning of "Perl"
+- no longer linked to bad reputation of "Perl"
 - removes source of Perl community stress
 - is a cool name that should appeal to younger people
 - name should better appeal to non-english native speakers
