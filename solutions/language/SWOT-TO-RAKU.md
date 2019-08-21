@@ -27,6 +27,7 @@
 - with better branding, should be able to get easier sponsorships / grants
 - may get core developers who have left, back into the core team
 - could be marketed as a programming language without corporate backing, and thus free from corporate influencing / agenda
+- could be marketed on its own, with its own strengths, such as multi-paradigmity and concurrency, as well as coverage of the Unicode standard
 - could be marketed as the 100-year language properly
 - current Perl 6 books could be updated while changing the name
 - current Perl 6 blog posts could be better marked with TIOBE tag (as they presently are not tagged correctly in general)
