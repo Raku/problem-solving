@@ -36,9 +36,11 @@
 
 ## Threats
 
-- may lose current users because of name change
-- may lose current core developers because of name change
-- may lose current book writers because of name change
+- may lose current users
+- may lose current core developers
+- may lose current book writers
+- may lose support from local Perl user groups (PerlMongers)
+- may lose support of organizations such as The Perl Foundation, EPO, YEF
 - may be made fun of as the language that cannot make up its mind
 - may cause incompatibities / breakage that will reflect badly on overall image
 - may not get enough traction to grow anyway
