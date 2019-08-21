@@ -12,6 +12,8 @@
 ## Weaknesses
 
 - will *still* be linked to "Perl" because of historical connection
+- Perl 6 books will not know of name change, and thus continue to "squat"
+- Perl 6 blog posts will not know of name change, and thus continue to "squat"
 - may be hard to find using search engines, at least initially
 - must start with TIOBE rating from scratch
 
@@ -24,11 +26,15 @@
 - may get core developers who have left, back into the core team
 - could be marketed as a programming language without corporate backing, and thus free from corporate influencing / agenda
 - could be marketed as the 100-year language properly
+- current Perl 6 books could be updated while changing the name
+- current Perl 6 blog posts could be better marked with TIOBE tag (as they presently are not tagged correctly in general)
+- reworked documentation could have *all* pages properly TIOBE tagged
 
 ## Threats
 
 - may lose current users because of name change
 - may lose current core developers because of name change
+- may lose current book writers because of name change
 - may be made fun of as the language that cannot make up its mind
 - may cause incompatibities / breakage that will reflect badly on overall image
 - may not get enough traction to grow anyway
