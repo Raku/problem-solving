@@ -17,6 +17,7 @@
 - Perl 6 blog posts will not know of name change, and thus continue to "squat"
 - may be hard to find using search engines, at least initially
 - must start with TIOBE rating from scratch
+- in social media, #raku as a tag is overloaded with Japanese pottery meaning
 
 ## Opportunities
 
@@ -30,6 +31,7 @@
 - current Perl 6 books could be updated while changing the name
 - current Perl 6 blog posts could be better marked with TIOBE tag (as they presently are not tagged correctly in general)
 - reworked documentation could have *all* pages properly TIOBE tagged
+- in social media, use new, distinctive #rakulang tag
 
 ## Threats
 
