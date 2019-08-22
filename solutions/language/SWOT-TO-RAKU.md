@@ -9,6 +9,7 @@
 - is a cool name that should appeal to younger people
 - name should better appeal to non-english native speakers
 - should be easier to get distinctive TIOBE rating
+- will keep at least one core developer from leaving the project
 
 ## Weaknesses
 
@@ -33,6 +34,7 @@
 - current Perl 6 blog posts could be better marked with TIOBE tag (as they presently are not tagged correctly in general)
 - reworked documentation could have *all* pages properly TIOBE tagged
 - in social media, use new, distinctive #rakulang tag
+- could make an ex-core developer return to the project
 
 ## Threats
 
