@@ -43,4 +43,6 @@
 - may lose support of organizations such as The Perl Foundation, EPO, YEF
 - may be made fun of as the language that cannot make up its mind
 - may cause incompatibities / breakage that will reflect badly on overall image
+- could drain critical mass from Perl 5 events
+- could drain critical mass from Raku events
 - may not get enough traction to grow anyway
