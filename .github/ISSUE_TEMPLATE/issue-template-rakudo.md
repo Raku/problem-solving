@@ -1,9 +1,9 @@
 ---
-name: Report a problem
-about: Basic template for reporting problems
+name: Report a rakudo problem
+about: Big changes to Rakudo
 title: ''
-labels: ''
-assignees: ''
+labels: 'rakudo'
+assignees: 'jnthn'
 
 ---
 
