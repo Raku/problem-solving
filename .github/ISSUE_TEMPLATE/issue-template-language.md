@@ -1,5 +1,5 @@
 ---
-name: Report a problem
+name: Report a language problem
 about: Changes to the Perl 6 language
 title: ''
 labels: 'language'
