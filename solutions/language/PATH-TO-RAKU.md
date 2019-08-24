@@ -81,11 +81,10 @@ make IRC channel logging one of the infrastructure tasks.
 
 ## External references
 
-Many places on the Internet refer to `Perl 6`, e.g. Wikipedia and Rosetta
-code.  These references will need to be changed to `Raku`, with a small
-explanation of the name change.  This should be a coordinated effort to
-avoid duplicity of work, and to make sure that the explanation of the name
-change is consistent.
+Many places on the Internet refer to `Perl 6`.  These references will need
+to be changed to `Raku`, with a small explanation of the name change.  This
+should be a coordinated effort to avoid duplicity of work, and to make sure
+that the explanation of the name change is consistent.
 
 Many sites, such as Reddit and StackOverflow, use implicit / explicit `perl6`
 tags.  These will need to be changed or have a `raku` tag added, possibly
