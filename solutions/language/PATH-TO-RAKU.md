@@ -130,7 +130,8 @@ extensions should be marked as DEPRECATED, causing a message to be generated
 when the module is loaded.
 
 On Windows some more trickery may be involved to mark a script with the
-`.rk` extension as executable.
+`.rk` extension as executable, because installers will need to add the
+`.rk` association as well.
 
 ### Testing
 
