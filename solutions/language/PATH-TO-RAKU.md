@@ -226,10 +226,11 @@ modern source control techniques.
 
 ## Effects on the Perl community
 
-There is a (small) part of the Perl community that welcomes Perl 6 leaving
-that community.  But in general, it appears that Perl community members would
-like to have channels open between members that only do `Perl 5`, and members
-that only do `Raku`.
+There is a (small) part of the Perl community that welcome the rename, as they
+don't want anything to do with the language and are glad to disassociate it
+from the Perl name.  But in general, it appears that Perl community members
+would like to have channels open between members that only do `Perl 5`, and
+members that only do `Raku`.
 
 The name change of `Perl 6` to `Raku` is also intended to have a healing
 effect on a community that has been effectively split for many years.
