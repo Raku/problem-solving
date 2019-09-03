@@ -48,7 +48,7 @@ be with the next (monthlyish) release.
 
 Given we are no longer forced to have "6" in the version, there are now
 more options to do language versioning properly, and this aspect will
-need to be discussed separately.
+need to be discussed separately at a later time.
 
 ### NQP
 
