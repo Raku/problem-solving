@@ -24,9 +24,9 @@ Renaming to `.code` currently clashes with `CallFrame.code`, visually clashes
 with the `.codes` method, and it being a generic name, probably also clashes
 with CPAN and DarkPan Perl 6 modules.
 
-Also the `$*PERL` dynamic variable and the `Perl` class will need to be
-renamed, probably to `$*RAKU` and `Raku`, respectively.  After a deprecation
-cycle of course.
+`$*RAKU` and the `Raku` class will be the replacement of `$*PERL` and the
+`Perl` class, which initially will just be aliases.  At a language boundary
+switch, they will become actual type declarations.
 
 ### Pragmas
 
