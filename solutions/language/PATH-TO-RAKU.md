@@ -16,6 +16,10 @@ global search/replace of `.perl` to `.raku` (both in method names and in
 calls) in `src/core`, `src/Perl6` and `lib`.  A new `Mu.perl` method should
 issue a DEPRECATED message, and then call `Mu.raku`.
 
+The ClassHOW metamodel class should be adapted so that any non-core modules
+that have a `.perl` method, will get installed as `.raku`, and a wrapped
+version with a `DEPRECATED` message to be installed as the `.perl` method.
+
 Renaming to `.code` currently clashes with `CallFrame.code`, visually clashes
 with the `.codes` method, and it being a generic name, probably also clashes
 with CPAN and DarkPan Perl 6 modules.
