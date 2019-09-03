@@ -218,10 +218,11 @@ Currently printed copies of books will probably need a sticker like "Covers
 the new exciting Raku programming language).
 
 Perl 6 books that have been open sourced, can be adapted by the community or
-the original author.  Since ebook sales currently outperform printed books
-by an order of magnitude, preparing another version of an ebook should be
-a relatively small effort, which can actually be distributed among many
-individuals using modern source control techniques..
+the original author: a "Migration Guide for Book Authors" should help authors
+with this.  Since ebook sales currently outperform printed books by an order
+of magnitude, preparing another version of an ebook should be a relatively
+small effort, which can actually be distributed among many individuals using
+modern source control techniques.
 
 ## Effects on the Perl community
 
