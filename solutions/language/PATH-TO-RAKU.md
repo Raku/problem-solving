@@ -76,8 +76,13 @@ be renamed or closed / opened with the new name (#raku\*).  New joins should
 be forwarded to the new channels.
 
 Colabti.org will need to be asked to log these channels, so that we can have
-backlog again.  Further down the road, it would probably be a wise idea to
-make IRC channel logging one of the infrastructure tasks.
+backlog again.  Unfortunately, it appears to be too difficult to migrate #perl6
+logs, so the same approach that was done when the #perl6-dev channel was
+created, will need to be followed.  So searching the logs will need to be
+done on the old names.
+
+Further down the road, it would probably be a wise idea to make IRC channel
+logging one of the infrastructure tasks.
 
 ## External references
 
