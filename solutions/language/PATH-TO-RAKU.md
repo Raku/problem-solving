@@ -98,7 +98,8 @@ that the explanation of the name change is consistent.
 
 Many sites, such as Reddit and StackOverflow, use implicit / explicit `perl6`
 tags.  These will need to be changed or have a `raku` tag added, possibly
-with cooperation of the administrators.
+with cooperation of the administrators.  It should be prevented that "Perl 6"
+all of a sudden becomes hard to find on these sites.
 
 Sites such as PerlMonks appear to be really `Perl` (aka `Perl 5`) focused,
 and could possible make that clear in their description, or change their
