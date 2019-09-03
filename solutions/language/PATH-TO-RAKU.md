@@ -193,10 +193,14 @@ alternatives will need to be found and/or implemented.
 
 ## Effects on modules in ecosystem
 
-Many modules either mention "perl6-" in their repo name, or mention "Perl 6"
-in their documentation.  The documentation will have to be scanned and Pull
-Requests will need to be made / generated for them.  Developers will be asked
-to change their repo-name to not include `perl6-` to avoid future confusion.
+A "migration guide" (perhaps with a better name) for existing developers that
+collect suggestions of what to do about the rename. If we can generate PRs
+that's perhaps also helpful, though we might want that to be opt-in: authors
+with a load of modules might be unpleasantly surprised to wake up one morning
+to an inbox full of PRs.
+
+Such a guide should help authors with modules that either mention "perl6-"
+in their repo name, or mention "Perl 6" in their documentation.
 
 ## Effects on running sub-projects
 
