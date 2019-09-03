@@ -30,9 +30,10 @@ switch, they will become actual type declarations.
 
 ### Pragmas
 
-The `use isms <Perl5>` should be DEPRECATED and changed to `use isms <Perl>`.
-Similarly `use Foo:from<Perl5>` to `use Foo:from<Perl>` and the `:lang`
-parameter to `EVAL`.
+The `use isms <Perl5>` should **NOT** be changed to `use isms <Perl>`.
+Similarly `use Foo:from<Perl5>` and the `:lang` parameter to `EVAL` should
+not be changed as to allow more flexibility should the Perl 5 community
+decide on a name change as well.
 
 ### Versioning
 
