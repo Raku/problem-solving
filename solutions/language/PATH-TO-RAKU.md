@@ -199,8 +199,8 @@ that's perhaps also helpful, though we might want that to be opt-in: authors
 with a load of modules might be unpleasantly surprised to wake up one morning
 to an inbox full of PRs.
 
-Such a guide should help authors with modules that either mention "perl6-"
-in their repo name, or mention "Perl 6" in their documentation.
+Such a guide should help authors with modules that either mention "perl6"
+or "p6" in their repo name, or mention "Perl 6" in their documentation.
 
 ## Effects on running sub-projects
 
