@@ -213,14 +213,16 @@ alternatives will need to be found and/or implemented.
 
 ## Effects on modules in ecosystem
 
-A "migration guide" (perhaps with a better name) for existing developers that
-collect suggestions of what to do about the rename. If we can generate PRs
-that's perhaps also helpful, though we might want that to be opt-in: authors
-with a load of modules might be unpleasantly surprised to wake up one morning
+A guide for existing module developers will be provided, which will offer
+suggestions of what to do about the rename. If we can generate PRs that's
+perhaps also helpful, though we might want that to be opt-in: authors with
+a load of modules might be unpleasantly surprised to wake up one morning
 to an inbox full of PRs.
 
 Such a guide should help authors with modules that either mention "perl6"
 or "p6" in their repo name, or mention "Perl 6" in their documentation.
+
+A proposed draft of such a guide is included at the end of this document.
 
 ## Effects on running sub-projects
 
@@ -306,3 +308,41 @@ called "The Raku Foundation".  Which would make it clear that "The Perl
 Foundation" is for Perl 5 only, whereas "The Raku Foundation" would be for
 Raku only.  While both are part of the Perl Mindset in the "Yet Another
 Society".
+
+## Draft guide for module developers
+
+The Raku team are grateful to all those who have developed modules for the
+language. We recognize that most contributors are doing so on a volunteer
+basis, and that this work is often done in one's (lack of) free time.
+
+This guide provides some suggestions on how module authors can handle the
+Perl 6 to Raku renaming. While there is a suggested timeline here, it is
+to be interpreted as "at your convenience", rather than an expectation to
+do these things quickly.
+
+### In the period immediately after the rename is agreed...
+
+You might consider:
+
+* Mentioning Raku in your module's README or other documentation. It's up to
+  you if you wish to have something like "Raku (formerly Perl 6)", to stay
+  findable for such searches for some time, or to simply adopt the Raku name
+  right away.
+* Renaming the GitHub repository if it contains `p6` or `perl6` (remember to
+  update the `sources` entry in `META6.json` if doing this).
+
+In this interest of your module continuing to work with existing Rakudo
+installations, please *do not*, at this point:
+
+* Change module file extensions away from `.pm6`
+* Rely on `.raku`, `Raku`, `$*RAKU`, and similar
+
+### Around the release of 6.e...
+
+This is expected to happen in 2020. At this point, you might consider:
+
+* Changing module file extensions (remembering to update `META6.json`)
+* Switching to use `.raku`, `Raku`, `$*RAKU`, and similar in the module's
+  code (most modules will not be doing this anyway)
+* Dropping remaining mentions of Perl 6 in the documentation, unless it is
+  there for historical interest
