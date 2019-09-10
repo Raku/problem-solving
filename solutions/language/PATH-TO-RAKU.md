@@ -10,19 +10,25 @@ cooperation.  It will affect people in foreseen and unforeseen ways.
 
 ### .perl
 
-The `.perl` method should be deprecated in 6.e, and removed in 6.f/g.  It
-should be replaced by a `.raku` method.  This could be implemented by a
-global search/replace of `.perl` to `.raku` (both in method names and in
-calls) in `src/core`, `src/Perl6` and `lib`.  A new `Mu.perl` method should
-issue a DEPRECATED message, and then call `Mu.raku`.
+The `.perl` method should be deprecated in 6.f, and removed in 6.g.  It
+should be replaced by a `.raku` method, which will be specified in 6.e
+(Rakudo can provide for it as soon as implemented). This could be
+implemented by a global search/replace of `.perl` to `.raku` (both in
+method names and in calls) in `src/core`, `src/Perl6` and `lib`.  A new
+`Mu.perl` method should be added that will later come to issue a
+DEPRECATED message, and then delegate to `.raku`.
 
-The ClassHOW metamodel class should be adapted so that any non-core modules
-that have a `.perl` method, will get installed as `.raku`, and a wrapped
-version with a `DEPRECATED` message to be installed as the `.perl` method.
+To retain compatibility with modules that declare a method `perl`, the
+default `raku` method should check if the type in question has a
+non-default `perl` method (that is, not the one from `Mu`) and, if so,
+call it. Once `.perl` is deprecated, it should issue the deprecation
+warning also.
 
 Renaming to `.code` currently clashes with `CallFrame.code`, visually clashes
 with the `.codes` method, and it being a generic name, probably also clashes
 with CPAN and DarkPan Perl 6 modules.
+
+### Perl and $*PERL
 
 `$*RAKU` and the `Raku` class will be the replacement of `$*PERL` and the
 `Perl` class, which initially will just be aliases.  At a language boundary
@@ -110,15 +116,15 @@ questions are on topic there.
 ## Technical changes
 
 All technical changes should make sure that all existing scripts continue
-to work without change in the foreseeable future (with optional DEPRECATED
-messages where appropriate).
+to work without change in the foreseeable future. Additional DEPRECATED
+messages will be introduced at point of a 6.e language change.
 
 ### Executables
 
 As some packagers have already done, the executable should be called `rakudo`,
 since `rakudo` is the name of the implementation.  `raku` and `perl6` should
 be symlinks.  If at all technically possible, running a script using the
-`perl6` as the executor, should provide a DEPRECATED warning at some point.
+`perl6` as the executor should provide a DEPRECATED warning at some point.
 
 ### Extensions
 
