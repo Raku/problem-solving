@@ -147,7 +147,7 @@ will need to be changed.
 
 ## Mascot
 
-Camelia will remain the mascot.  So the only thing that should change there
+Camelia will remain the mascot.  The only thing that should change there
 is that it is the mascot of `Raku` rather than `Perl 6`.  The fact that the
 wings contain a "P" and a "6" is obscure enough to not be an issue, and could
 be seen as a lasting tribute (easter egg) to the origin of "Raku".
