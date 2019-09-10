@@ -275,7 +275,7 @@ and maybe special events to celebrate the name change.
 
 ## Effects on events
 
-Event organizers as always, are completely free in the naming of their events.
+Event organizers are, as always, completely free in the naming of their events.
 If an event would like to cater for both `Perl` and `Raku` attendees, then
 this should be reflected in the name of the event.  An event with just `Raku`
 in its name, would appear to cater only for attendees interested in `Raku`.
