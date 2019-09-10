@@ -34,6 +34,20 @@ with CPAN and DarkPan Perl 6 modules.
 `Perl` class, which initially will just be aliases.  At a language boundary
 switch, they will become actual type declarations.
 
+### `PERL6LIB`
+
+A `RAKULIB` environment variable will be introduced into a Rakudo release,
+and specified as part of 6.e. If found in the environment, it will be used in
+favor of `PERL6LIB`. From 6.f, use of `PERL6LIB` will issue a deprecation
+warning.
+
+### `PERL6_HOME`
+
+This was only very recently introduced, and is likely not in wide use yet.
+We could consider immediately replacing it with `RAKU_HOME` in an upcoming
+Rakudo release, perhaps with a short-term fallback/warning - or error - if
+it's missing, but `PERL6_HOME` is found.
+
 ### Pragmas
 
 The `use isms <Perl5>` should **NOT** be changed to `use isms <Perl>`.
