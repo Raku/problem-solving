@@ -183,10 +183,10 @@ big splash for developers in those regions.
 ## Social Media
 
 Users who want to blog about `Raku` are suggested to always at least mention
-`Raku Programming Language` in their blog post, or in the boilerplate of their
-blog posts.  Mentioning of `Perl 6` in such blog posts is **discouraged**,
-unless the blog post is actually about the renaming process or historical
-matters.
+`Raku Programming Language` in their blog post or in the boilerplate of their
+blogging engine (exactly that string, for better TIOBE rating).  Mentioning of
+`Perl 6` in such blog posts should only be done if the blog post is actually
+about the renaming process or historical matters.
 
 When using social media that use hash-tags, users are suggested to use the
 `#raku-lang` hash-tag, and **not** use the `#perl6` hash-tag, unless the
