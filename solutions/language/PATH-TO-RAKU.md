@@ -191,7 +191,7 @@ blogging engine (exactly that string, for better TIOBE rating).  Mentioning of
 about the renaming process or historical matters.
 
 When using social media that use hash-tags, users are suggested to use the
-`#raku-lang` hash-tag, and **not** use the `#perl6` hash-tag, unless the
+`#rakulang` hash-tag, and **not** use the `#perl6` hash-tag, unless the
 post is actually about the renaming process or historical matters.
 
 Of course, the same applies to more official social media usage by the core
