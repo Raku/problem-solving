@@ -142,12 +142,14 @@ be symlinks.  If at all technically possible, running a script using the
 
 ### Extensions
 
-The extension `.rk` for scripts, `.rkm` for modules, and `.rd` for
-documentation (POD6) will become the defacto standards for files containing
-`Raku` code or documentation.  The old `.pm`, `.pm6` and `.pod6` extensions
-will continue to be supported for 6.e.  In 6.f, the `.pm`, `.pm6` and `.pod6`
-extensions should be marked as DEPRECATED, causing a message to be generated
-when the module is loaded.
+The matter of file extensions will be decided as a separate issue / PR.
+
+Suggestions for that issue: the extension `.rk` for scripts, `.rkm` for
+modules, and `.rd` for documentation (POD6) to become the defacto standards
+for files containing `Raku` code or documentation.  The old `.pm`, `.pm6` and
+`.pod6` extensions will continue to be supported for 6.e.  In 6.f, the `.pm`,
+`.pm6` and `.pod6` extensions could be marked as DEPRECATED, causing a message
+to be generated when the module is loaded.
 
 On Windows, installers should add a `.rk` association alongside the `.p6`
 association for the time being. Around the time of 6.f, a `.p6` association
