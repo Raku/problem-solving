@@ -15,6 +15,7 @@
 - will *still* be linked to "Perl" because of historical connection
 - Perl 6 books will not know of name change, and thus continue to "squat"
 - Perl 6 blog posts will not know of name change, and thus continue to "squat"
+- no longer linked to good reputation of "Perl"
 - may be hard to find using search engines, at least initially
 - must start with TIOBE rating from scratch
 - in social media, #raku as a tag is overloaded with Japanese pottery meaning
