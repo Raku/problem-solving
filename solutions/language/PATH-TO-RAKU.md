@@ -151,7 +151,7 @@ when the module is loaded.
 
 For testing, the extension `.rakutest` should be used, while the old `.t`
 extension will continue to be supported for 6.e, with deprecation messages
-appearing drom 6.f onward.
+appearing from 6.f onward.
 
 On Windows, installers should add a `.raku` association alongside the `.p6`
 association for the time being. Around the time of 6.f, a `.p6` association
