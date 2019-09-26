@@ -167,7 +167,6 @@ File a `meta` issue if you want to be added to this list.
 * [@maettu](https://github.com/maettu)
 * [@masak](https://github.com/masak)
 * [@MasterDuke17](https://github.com/MasterDuke17)
-* [@moritz](https://github.com/moritz)
 * [@rba](https://github.com/rba)
 * [@samcv](https://github.com/samcv)
 * [@timo](https://github.com/timo)
