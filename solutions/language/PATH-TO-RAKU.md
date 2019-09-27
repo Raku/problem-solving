@@ -26,7 +26,7 @@ warning also.
 
 Renaming to `.code` currently clashes with `CallFrame.code`, visually clashes
 with the `.codes` method, and it being a generic name, probably also clashes
-with CPAN and DarkPan Perl 6 modules.
+with modules and other code that exists in the wild.
 
 ### `Perl` and `$*PERL`
 
