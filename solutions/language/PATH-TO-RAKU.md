@@ -28,7 +28,7 @@ Renaming to `.code` currently clashes with `CallFrame.code`, visually clashes
 with the `.codes` method, and it being a generic name, probably also clashes
 with modules and other code that exists in the wild.
 
-### `Perl` and `$*PERL`
+### `$*PERL` and `Perl`
 
 `$*RAKU` and the `Raku` class will be the replacement of `$*PERL` and the
 `Perl` class, which initially will just be aliases.  At a language boundary
@@ -241,7 +241,7 @@ social media.
 ## Effects on books
 
 Currently printed copies of books will probably need a sticker like "Covers
-the new exciting Raku programming language).
+the new exciting Raku programming language".
 
 Perl 6 books that have been open sourced, can be adapted by the community or
 the original author: a "Migration Guide for Book Authors" should help authors
