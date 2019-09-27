@@ -8,7 +8,7 @@ cooperation.  It will affect people in foreseen and unforeseen ways.
 
 ## Language changes
 
-### .perl
+### `.perl`
 
 The `.perl` method should be deprecated in 6.f, and removed in 6.g.  It
 should be replaced by a `.raku` method, which will be specified in 6.e
@@ -28,7 +28,7 @@ Renaming to `.code` currently clashes with `CallFrame.code`, visually clashes
 with the `.codes` method, and it being a generic name, probably also clashes
 with CPAN and DarkPan Perl 6 modules.
 
-### Perl and $*PERL
+### `Perl` and `$*PERL`
 
 `$*RAKU` and the `Raku` class will be the replacement of `$*PERL` and the
 `Perl` class, which initially will just be aliases.  At a language boundary
