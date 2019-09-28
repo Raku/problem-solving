@@ -147,7 +147,7 @@ for documentation (POD6) to become the defacto standards for files containing
 `Raku` code or documentation.  The old `.pm`, `.pm6` and `.pod6` extensions
 will continue to be supported for 6.e.  In 6.f, the `.pm`, `.pm6` and `.pod6`
 extensions could be marked as DEPRECATED, causing a message to be generated
-when the module is loaded.
+when possible.
 
 For testing, the extensions `.rakutest` and `.t` should be used, while the
 extension `.t6` will continue to be supported for 6.e, with deprecation
