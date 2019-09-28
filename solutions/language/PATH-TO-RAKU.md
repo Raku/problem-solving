@@ -153,6 +153,14 @@ For testing, the extensions `.rakutest` and `.t` should be used, while the
 extension `.t6` will continue to be supported for 6.e, with deprecation
 messages appearing from 6.f onward.
 
+Tools and editors should support both `.rakutest` and `.t` extensions. `.t`
+extension is shared by other languages, so editors that can interpret
+shebangs or have other heuristics should use these means to
+disambiguate raku `.t` files from test files written in other
+languages. Editors and tools that are raku-oriented (like Comma, zef,
+etc.) should assume that `.t` files without a shebang are Raku test
+files.
+
 On Windows, installers should add a `.raku` association alongside the `.p6`
 association for the time being. Around the time of 6.f, a `.p6` association
 could be deselected by default, and perhaps dropped entirely by 6.g.
