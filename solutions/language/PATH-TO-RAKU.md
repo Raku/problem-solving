@@ -165,6 +165,14 @@ On Windows, installers should add a `.raku` association alongside the `.p6`
 association for the time being. Around the time of 6.f, a `.p6` association
 could be deselected by default, and perhaps dropped entirely by 6.g.
 
+Here are some examples of filenames with new extensions:
+* `Set.rakumod`
+* `HyperSeq.rakumod`
+* `ThreadPoolScheduler.rakumod`
+* `ForClass.rakumod`
+* `ForClass.rakudoc`
+* `01-basic.rakutest`
+
 ### Testing
 
 Roast continues to be the specification of the language.  Only the name
