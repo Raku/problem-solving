@@ -173,6 +173,10 @@ Here are some examples of filenames with new extensions:
 * `ForClass.rakudoc`
 * `01-basic.rakutest`
 
+There won't be any additional changes to extensions in the near
+future. That is, no alternatives (like shorter variants) will be
+supported, and the extensions mentioned in this document are final.
+
 ### Testing
 
 Roast continues to be the specification of the language.  Only the name
