@@ -173,6 +173,11 @@ Here are some examples of filenames with new extensions:
 * `ForClass.rakudoc`
 * `01-basic.rakutest`
 
+Shorter extensions were considered but no good candidates were
+found. For example, `.rk*` cannot be used because of their unfortunate
+similarity to Racket language file extensions (which uses `.rkt`) and
+other direct conflicts with various formats.
+
 There won't be any additional changes to extensions in the near
 future. That is, no alternatives (like shorter variants) will be
 supported, and the extensions mentioned in this document are final.
