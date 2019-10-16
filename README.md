@@ -139,7 +139,6 @@ to be added as a responsible dev.
   * [@jnthn](https://github.com/jnthn)
 * `language` – changes to the [Perl 6 language](https://github.com/perl6/roast/)
   * [@jnthn](https://github.com/jnthn)
-  * [@vrurg](https://github.com/vrurg)
 * `rakudo` – big changes to [Rakudo](https://github.com/rakudo/rakudo/)
   * [@jnthn](https://github.com/jnthn)
 * `moarvm` – big changes to [MoarVM](https://github.com/MoarVM/MoarVM)
