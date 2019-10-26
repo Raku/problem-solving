@@ -37,3 +37,11 @@ repository will be transferred to `rakudo/old-issue-tracker`. Links to
 RT will keep working either through a double redirect, or the redirect
 from RT will be tweaked to point to `rakudo/` organization directly.
 
+
+Note: In this document `perl6/` is used to refer to the github
+organization that is currently being used by the Raku project. At the
+moment of writing it is `perl6/`, but in the future all repositories
+will likely be transferred to `rakulang/` organization (or other
+organization with a similar name). The move to a github organization
+that embraces the Raku name is a separate effort that will be
+discussed elsewhere.
