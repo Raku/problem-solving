@@ -7,7 +7,7 @@ care of the existing RT tickets.
 
 1. All existing tickets will be migrated to github using the tools
 developed for the similar transition in the Perl project (big thanks
-to [@toddr](https://github.com/toddr)!).
+to [@toddr](https://github.com/toddr) and others!).
 
   + After migration, links to RT tickets will redirect to appropriate
   github issues.
@@ -36,3 +36,4 @@ organization means that more people will be able to help.
 repository will be transferred to `rakudo/old-issue-tracker`. Links to
 RT will keep working either through a double redirect, or the redirect
 from RT will be tweaked to point to `rakudo/` organization directly.
+
