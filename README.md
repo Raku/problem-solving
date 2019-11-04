@@ -172,3 +172,4 @@ File a `meta` issue if you want to be added to this list.
 * [@samcv](https://github.com/samcv)
 * [@timo](https://github.com/timo)
 * [@tony-o](https://github.com/tony-o)
+* [@vrurg](https://github.com/vrurg)
