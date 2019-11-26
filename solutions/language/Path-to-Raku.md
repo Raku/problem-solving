@@ -44,7 +44,7 @@ warning.
 ### `PERL6_HOME`
 
 This was only very recently introduced, and is likely not in wide use yet.
-We could consider immediately replacing it with `RAKUDO_HOME` in an upcoming
+We could consider immediately replacing it with `RAKU_HOME` in an upcoming
 Rakudo release, perhaps with a short-term fallback/warning - or error - if
 it's missing, but `PERL6_HOME` is found.
 
