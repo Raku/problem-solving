@@ -7,7 +7,7 @@ What's discussed in this document boils down to this:
 
 * We aim to be actively welcoming, friendly, respectful, and helpful to everyone interested in Raku and our shared community.
 
-* We discriminate on the ability to be a kind, positive member of our community.
+* We **only** discriminate on the ability to be a kind, positive member of our community.
 
 * Our standard of behavior is "awesome".  LTA (Less Than Awesome) behavior can happen if you have a bad day.  If your behavior is WBA (Way Below Awesome), we will call you on it.
 
