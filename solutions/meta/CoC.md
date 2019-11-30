@@ -9,7 +9,7 @@ What's discussed in this document boils down to this:
 
 * We discriminate on the ability to be a kind, positive member of our community.
 
-* Our standard of behavior is "awesome".  If your behavior is LTA (Less Than Awesome), we will call you on it.
+* Our standard of behavior is "awesome".  LTA (Less Than Awesome) behavior can happen if you have a bad day.  If your behavior is WBA (Way Below Awesome), we will call you on it.
 
 * There is no form of negative behavior that will impress us or gain you favor in our community.
 
