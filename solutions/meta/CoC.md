@@ -53,6 +53,14 @@ If you have been unable to sway a troll, or you are otherwise not able to handle
 
 The most important thing to remember in these situations is simply: *Don't Panic!*.  Rash behavior will never help the situation.
 
+# Responsibility
+
+If you are contributing to the Rakudo core (on any backend, nqp or Rakud code), you are responsible for making sure that your contributions do not break Rakudo (either with the tests in Rakudo itself, or in roast (aka spectest)).
+
+But this responsibility goes further than that: should your change break modules in the ecosystem, you have become responsible for getting those fixed as well: either by doing this yourself, or by engaging other members of the community to try and fix that.
+
+Should all of this fail, then there is no choice but to revert your contribution.
+
 # Good Intentions
 
 Even within a community where every member is filled with good intentions, it is possible that conflicts arise.  Especially in a community as diverse in culture, age and gender, and as geographically spread as the Raku community, misunderstandings can and will occur for **any** reason.
