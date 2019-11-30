@@ -57,8 +57,6 @@ The most important thing to remember in these situations is simply: *Don't Panic
 
 The Raku community has kept itself a shining example of a friendly community for years. These rules are not meant to change how we operate, only to set down how we do things, for the benefit of every newcomer to Raku. You can see this in the fact that this document isn't a lawyer-like enumeration of every possible social interaction.
 
-> This should not be surprising for a group based around a high-level language.
-
 We've set out these rules so that you don't have to worry about doing the right thing beyond being kind towards and respectful of everyone around you.
 
 So now that you know how we run as a community, come on in and have the appropriate amount of fun!
