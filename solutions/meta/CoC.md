@@ -39,9 +39,9 @@ In any discussion, it's natural to feel frustrated with the fact that the discus
 
 # Handling Trolls
 
-Here we consider a troll to be someone whose behavior is meant to be a negative force on the community, especially after attempts by the community to help a troll be less of one.
+Here we consider a troll to be someone whose behavior is meant to be a negative force on the community, a person lacking of good intentions, especially after attempts by the community to help a troll be less of one.
 
-We handle trolls by being nice to them. Genuinely and civilly make the case against their negative influence. People who are actually trolls will quickly reveal themselves by their refusal to take into account the things you are saying. When these trolls are conclusively identified, the community as a whole will be quick to wish them well and escort them out the door.
+We handle trolls by being nice to them, because they **may** have some good intentions in them after all. Genuinely and civilly make the case against their negative influence. People who are actually trolls will quickly reveal themselves by their refusal to take into account the things you are saying. When these trolls are conclusively identified, the community as a whole will be quick to wish them well and escort them out the door.
 
 We take this approach because lots of times, people have genuine misconceptions about the issue they bring up. When our default is to help people understand their misconceptions, we'll find a lot more friendly faces for our community. And, as a bonus side effect, doing everything we can to help trolls not be so troll-like helps us build a stronger case against those trolls, since it leaves less possibility that they had genuine concerns after all.
 
