@@ -51,7 +51,15 @@ If you are on the receiving end of a troll's discriminatory behavior, the best t
 
 If you have been unable to sway a troll, or you are otherwise not able to handle a discussion with the troll, your best course of action would be to ask the rest of the community for help. (Lots of times, the Raku community will already be helping with the discussion!) We always strive to make sure trolls are forced to leave before you are.
 
-The most important thing to remember in these situations is simply: *Don't Panic!* Rash behavior will never help the situation.
+The most important thing to remember in these situations is simply: *Don't Panic!*.  Rash behavior will never help the situation.
+
+# Good Intentions
+
+Even within a community where every member is filled with good intentions, it is possible that conflicts arise.  Especially in a community as diverse in culture, age and gender, and as geographically spread as the Raku community, misunderstandings can and will occur for **any** reason.
+
+When such a conflict develops, it is important to try and resolve such a conflict as quickly as possible: unresolved conflicts tend to skew one's impression of the adversary, providing a feeding ground for bigger conflicts in the future.  Please speak up and try to fix the conflict, even if your cultural background tells you that conflicts should be avoided.
+
+If you can not resolve a conflict yourself, you can look for someone in or outside of the Raku community to arbitrate: such an arbitrator should be impartial and acceptable to both parties.  If you cannot agree on an arbitrator, then one of the people who have made themselves available to the Raku community as arbitrators, can be contacted to arbitrate.
 
 # Final Words
 
