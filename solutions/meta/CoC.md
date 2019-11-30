@@ -7,7 +7,7 @@ What's discussed in this document boils down to this:
 
 * We aim to be actively welcoming, friendly, respectful, and helpful to everyone interested in Raku and our shared community.
 
-* We don't discriminate on any basis other than ability to be a kind, positive member of our community.
+* We discriminate on the ability to be a kind, positive member of our community.
 
 * Our standard of behavior is "awesome".  If your behavior is LTA (Less Than Awesome), we will call you on it.
 
