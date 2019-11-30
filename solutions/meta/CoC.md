@@ -45,8 +45,6 @@ We handle trolls by being nice to them. Genuinely and civilly make the case agai
 
 We take this approach because lots of times, people have genuine misconceptions about the issue they bring up. When our default is to help people understand their misconceptions, we'll find a lot more friendly faces for our community. And, as a bonus side effect, doing everything we can to help trolls not be so troll-like helps us build a stronger case against those trolls, since it leaves less possibility that they had genuine concerns after all.
 
-As an aside: thankfully, almost all trolls in the Raku community are there to attack the language for a wide variety of now mostly historical reasons. When a troll enters the Raku community, they are more likely to try and get a negative reaction on the basis of the language rather than the basis of any one person's characteristics. This doesn't mean we take a diminished stance on personal attacks, however; it's simply a statement of what kind of trolling you're most likely to see around here.
-
 # Handling Attacks Against Yourself
 
 If you are on the receiving end of a troll's discriminatory behavior, the best thing to do would be to handle said troll with kindness (see the previous section, L<#Handling Trolls>). It's best not to engage on their terms.
