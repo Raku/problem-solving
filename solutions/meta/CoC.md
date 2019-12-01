@@ -55,11 +55,21 @@ The most important thing to remember in these situations is simply: *Don't Panic
 
 # Responsibility
 
-If you are contributing to the Rakudo core (on any backend, nqp or Rakud code), you are responsible for making sure that your contributions do not break Rakudo (either with the tests in Rakudo itself, or in roast (aka spectest)).
+If you are contributing to a project involving Raku, then follow the guidelines of that project.
 
-But this responsibility goes further than that: should your change break modules in the ecosystem, you have become responsible for getting those fixed as well: either by doing this yourself, or by engaging other members of the community to try and fix that.
+If you are contributing to the Rakudo core (on any backend, nqp or Raku code), then please adhere to the following guidelines:
 
-Should all of this fail, then there is no choice but to revert your contribution.
+- Spend time understanding the changes you are making, specifically if this is about a merge commit from another contributor
+
+- Know when to ask someone more knowledgeable than yourself to look over code via a Pull Request, especially when you are unsure of any potential side-effects
+
+- When you break something, you become the owner of the problem ("you break it, you buy it").  A solution may be to unbreak it by reverting.  Alternately, work with the stakeholders towards a solution
+
+- Always make sure commit messages are descriptive so that the casual reader can understand the "why" of the commit.  Refer to other commits / issue numbers if this is not clear from the text
+
+- Lead by example.  Confront people not adhering to the guidelines with their non-adherence.  Always.  No matter of their standing in the project
+
+Breaking the guidelines repeatedly, can be considered a form of negligence.  And repeated negligence can be considered trolling.
 
 # Good Intentions
 
