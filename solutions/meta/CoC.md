@@ -47,7 +47,7 @@ We take this approach because lots of times, people have genuine misconceptions 
 
 # Handling Attacks Against Yourself
 
-If you are on the receiving end of a troll's discriminatory behavior, the best thing to do would be to handle said troll with kindness (see the previous sectionon #Handling Trolls). It's best not to engage on their terms.
+If you are on the receiving end of a troll's discriminatory behavior, the best thing to do would be to handle said troll with kindness (see the previous section on #Handling Trolls). It's best not to engage on their terms.
 
 If you have been unable to sway a troll, or you are otherwise not able to handle a discussion with the troll, your best course of action would be to ask the rest of the community for help. (Lots of times, the Raku community will already be helping with the discussion!) We always strive to make sure trolls are forced to leave before you are.
 
