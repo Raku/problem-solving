@@ -7,7 +7,7 @@ What's discussed in this document boils down to this:
 
 * We aim to be actively welcoming, friendly, respectful, and helpful to everyone interested in Raku and our shared community.
 
-* We do **not** discriminate on gender, gender identity, sexual orientation, age or ethnic / cultural background.  We **do** discriminate on the ability to be a kind, positive member of our community.
+* We do **not** discriminate on gender, gender identity, sexual orientation, age or ethnic / cultural / technical background.  We **do** discriminate on the ability to be a kind, positive member of our community.
 
 * Our standard of behavior is "awesome".  LTA (Less Than Awesome) behavior can happen but will be bad for your karma.  If your behavior is WBA (Way Below Awesome), we will call you on it.
 
