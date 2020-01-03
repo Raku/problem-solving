@@ -1,6 +1,6 @@
 ---
 name: Report a language problem
-about: Changes to the Perl 6 language
+about: Changes to the Raku language
 title: ''
 labels: 'language'
 assignees: 'jnthn'
