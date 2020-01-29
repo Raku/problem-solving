@@ -27,6 +27,12 @@ split) in the Raku/doc repo, and Documentable, which is the API, in
 the Raku/Documentable repo. I propose to follow these steps to be able
 to index and document routines separately:
 
+1. Almost inmediately, we can change the sorting order of the
+   routines/methods in the current pages from lexicographical on the
+   class/Role name they're defined to "hierarchical" order, with
+   routines lower in the hierarchy first. That might help somehow by
+   focusing on improving those versions of the routine, while the rest
+   of the solution is worked out.
 1. Add a new `kind` "Routine" to Documentable
    (see
    [documentation](https://raw.githubusercontent.com/Raku/Documentable/master/docs/Language/document-format.pod6) for
