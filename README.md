@@ -1,6 +1,6 @@
 # 🦋 Problem Solving
 
-`perl6/problem-solving` repository is used for working on all issues
+`raku/problem-solving` repository is used for working on all issues
 that require discussion and/or consensus. This document describes the
 process in more detail.
 
