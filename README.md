@@ -1,6 +1,6 @@
 # 🦋 Problem Solving
 
-`perl6/problem-solving` repository is used for working on all issues
+`Raku/problem-solving` repository is used for working on all issues
 that require discussion and/or consensus. This document describes the
 process in more detail.
 
@@ -56,7 +56,7 @@ covered in the document, additional requirements, etc).
 ## Submitting a solution
 
 PRs can only be submitted once all previous stages are completed. PRs
-should be submitted in `perl6/problem-solving` repository. The
+should be submitted in `Raku/problem-solving` repository. The
 document in the PR should act as a documentation for the solution (as
 it will also be read later after it is accepted). This time all
 details should be provided. Keep your document consistent with other
