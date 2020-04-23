@@ -17,7 +17,7 @@ A good solution should:
 Solution
 --------
 
-`sub run()`, `Proc.Spawn()` and `Proc::Async.new()` are extended with a new argument `$:win-verbatim-args` defaulting to `False`. If the argument is left off or set to `False`, the arguments are quoted according to the Microsoft convention. This is identical to Rakus previous behavior and thus backwards compatible.
+`sub run()`, `Proc.Spawn()` and `Proc::Async.new()` are extended with a new argument `:$win-verbatim-args` defaulting to `False`. If the argument is left off or set to `False`, the arguments are quoted according to the Microsoft convention. This is identical to Rakus previous behavior and thus backwards compatible.
 
 When passing `True` the passed arguments are concatenated with a single space. No other processing takes place. This allows to manually quote the arguments as necessary.
 
