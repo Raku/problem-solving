@@ -3,7 +3,7 @@ name: Report a meta problem
 about: Changes to the problem-solving repo and this document
 title: ''
 labels: 'meta'
-assignees: 'AlexDaniel'
+assignees: 'jnthn'
 
 ---
 

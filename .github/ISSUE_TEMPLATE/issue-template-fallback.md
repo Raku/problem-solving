@@ -3,7 +3,7 @@ name: Report another problem
 about: Basic template for reporting problems (if no other label fits)
 title: ''
 labels: 'fallback'
-assignees: 'AlexDaniel'
+assignees: 'jnthn'
 
 ---
 
