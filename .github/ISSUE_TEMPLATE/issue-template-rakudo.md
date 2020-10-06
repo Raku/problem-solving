@@ -3,7 +3,7 @@ name: Report a rakudo problem
 about: Big changes to Rakudo
 title: ''
 labels: 'rakudo'
-assignees: 'jnthn'
+assignees:
 
 ---
 

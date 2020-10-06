@@ -3,7 +3,7 @@ name: Report a moarvm problem
 about: Big changes to MoarVM
 title: ''
 labels: 'rakudo'
-assignees: 'jnthn'
+assignees:
 
 ---
 
