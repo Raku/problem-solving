@@ -135,7 +135,6 @@ File a `meta` issue if you want to create a new label or if you want
 to be added as a responsible dev.
 
 * `meta` – changes to the `problem-solving` repo and this document
-  * [@AlexDaniel](https://github.com/AlexDaniel)
   * [@codesections](https://github.com/codesections)
 * `language` – changes to the [Raku language](https://github.com/perl6/roast/)
   * –
@@ -153,14 +152,12 @@ to be added as a responsible dev.
   * [@rba](https://github.com/rba)
   * [@maettu](https://github.com/maettu)
 * `fallback` – if no other label fits
-  * [@AlexDaniel](https://github.com/AlexDaniel)
   * [@codesections](https://github.com/codesections)
 
 ## Reviewers
 
 File a `meta` issue if you want to be added to this list.
 
-* [@AlexDaniel](https://github.com/AlexDaniel)
 * [@codesections](https://github.com/codesections)
 * [@FCO](https://github.com/FCO)
 * [@JJ](https://github.com/JJ)
