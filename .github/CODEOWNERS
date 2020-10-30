@@ -1,8 +1,8 @@
 *                         @AlexDaniel
 solutions/meta            @AlexDaniel
-solutions/language        –
-solutions/rakudo          –
-solutions/moarvm          –
+#solutions/language        –
+#solutions/rakudo          –
+#solutions/moarvm          –
 solutions/documentation   @JJ
 solutions/unicode         @samcv
 solutions/infrastructure  @rba
