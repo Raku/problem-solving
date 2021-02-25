@@ -1,6 +1,6 @@
 ---
 name: Report a documentation problem
-about: Big changes to Perl 6 documentation and other learning resources
+about: Big changes to Raku documentation and other learning resources
 title: ''
 labels: 'documentation'
 assignees: 'JJ'

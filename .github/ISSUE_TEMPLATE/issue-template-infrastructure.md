@@ -3,7 +3,7 @@ name: Report an infrastructure problem
 about: Servers, hosting, cloud, monitoring, backup and automation
 title: ''
 labels: 'infrastructure'
-assignees: 'rba', 'maettu'
+assignees: 'rba'
 
 ---
 

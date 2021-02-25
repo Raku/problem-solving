@@ -1,0 +1,9 @@
+*                         @codesections
+solutions/meta            @codesections
+#solutions/language        –
+#solutions/rakudo          –
+#solutions/moarvm          –
+solutions/documentation   @JJ
+solutions/unicode         @samcv
+solutions/infrastructure  @rba
+solutions/fallback        @codesections

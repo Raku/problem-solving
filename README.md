@@ -1,6 +1,6 @@
 # 🦋 Problem Solving
 
-`perl6/problem-solving` repository is used for working on all issues
+`Raku/problem-solving` repository is used for working on all issues
 that require discussion and/or consensus. This document describes the
 process in more detail.
 
@@ -56,7 +56,7 @@ covered in the document, additional requirements, etc).
 ## Submitting a solution
 
 PRs can only be submitted once all previous stages are completed. PRs
-should be submitted in `perl6/problem-solving` repository. The
+should be submitted in `Raku/problem-solving` repository. The
 document in the PR should act as a documentation for the solution (as
 it will also be read later after it is accepted). This time all
 details should be provided. Keep your document consistent with other
@@ -135,16 +135,15 @@ File a `meta` issue if you want to create a new label or if you want
 to be added as a responsible dev.
 
 * `meta` – changes to the `problem-solving` repo and this document
-  * [@AlexDaniel](https://github.com/AlexDaniel)
-  * [@jnthn](https://github.com/jnthn)
-* `language` – changes to the [Perl 6 language](https://github.com/perl6/roast/)
-  * [@jnthn](https://github.com/jnthn)
+  * [@codesections](https://github.com/codesections)
+* `language` – changes to the [Raku language](https://github.com/perl6/roast/)
+  * –
 * `rakudo` – big changes to [Rakudo](https://github.com/rakudo/rakudo/)
-  * [@jnthn](https://github.com/jnthn)
+  * –
 * `moarvm` – big changes to [MoarVM](https://github.com/MoarVM/MoarVM)
-  * [@jnthn](https://github.com/jnthn)
+  * –
 * `documentation` – big changes to
-  [Perl 6 documentation](https://github.com/perl6/doc/) and other learning
+  [Raku documentation](https://github.com/Raku/doc/) and other learning
   resources
   * [@JJ](https://github.com/JJ)
 * `unicode` – Unicode and encoding/decoding
@@ -153,17 +152,15 @@ to be added as a responsible dev.
   * [@rba](https://github.com/rba)
   * [@maettu](https://github.com/maettu)
 * `fallback` – if no other label fits
-  * [@AlexDaniel](https://github.com/AlexDaniel)
-  * [@jnthn](https://github.com/jnthn)
+  * [@codesections](https://github.com/codesections)
 
 ## Reviewers
 
 File a `meta` issue if you want to be added to this list.
 
-* [@AlexDaniel](https://github.com/AlexDaniel)
+* [@codesections](https://github.com/codesections)
 * [@FCO](https://github.com/FCO)
 * [@JJ](https://github.com/JJ)
-* [@jnthn](https://github.com/jnthn)
 * [@lizmat](https://github.com/lizmat/)
 * [@maettu](https://github.com/maettu)
 * [@masak](https://github.com/masak)
