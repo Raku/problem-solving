@@ -1,4 +1,4 @@
-This file provides a solution to [issue #263 - The Raku Foundation](https://github.com/Raku/problem-solving/issues/263) by *Andrew Shitov*.  The RSC (Raku Steering Council, on behalf of the Raku Community) would like to thank *Andrew* for creation of this issue, and the discussions it has brought.
+This file provides a solution to [issue #263 - The Raku Foundation](https://github.com/Raku/problem-solving/issues/263) by *Andrew Shitov*.  The members of the RSC (Raku Steering Council) would like to personally thank *Andrew* for creation of this issue, and the discussions it has brought.
 
 As outlined in the [Problem Solving Repo](https://github.com/Raku/problem-solving) and the [Raku Governance Code](https://github.com/Raku/Raku-Steering-Council/blob/main/papers/Raku_Steering_Council_Code.md), the Raku Community acts by adopting Problem Solving solutions such as this one, through either consensus or an RSC vote.
 
