@@ -1,0 +1,9 @@
+This file provides a solution to [issue #263 - The Raku Foundation](https://github.com/Raku/problem-solving/issues/263) by *Andrew Shitov*.  The members of the RSC (Raku Steering Council) would like to personally thank *Andrew* for creation of this issue, and the discussions it has brought.
+
+As outlined in the [Problem Solving Repo](https://github.com/Raku/problem-solving) and the [Raku Governance Code](https://github.com/Raku/Raku-Steering-Council/blob/main/papers/Raku_Steering_Council_Code.md), the Raku Community acts by adopting Problem Solving solutions such as this one, through either consensus or an RSC vote.
+
+This solution is based on the numerous responses to issue #263, and in particular on [*Dave Rolsky*'s response](https://github.com/Raku/problem-solving/issues/263#issuecomment-782888300), and specifically in that response:
+
+> Yes, this is true! Filing a DBA will cost us $10 or $25 (I can't remember which) and requires filing one form with the state of Michigan. It  also requires us to update our banking info so that the bank accepts checks made out to "The Raku Foundation". I don't think there's much more  work required than that.
+
+Accordingly, the Raku community would like to formally request that Yet Another Society create a "doing-business-as" for YAS under the name "The Raku Foundation".  Using the name "The Raku Foundation" has been the plan for [quite some time](https://github.com/Raku/problem-solving/blob/master/solutions/language/Path-to-Raku.md#relationship-with-the-perl-foundation) and has many advantages for both the Perl and Raku communities.  Most immediately, it would allow Raku to present a foundation to the world without using a name that requires immediate explanation of the history of Raku and Perl.  Longer term, we believe that this move will benefit both language communities by showing that each language is pursuing an independent future.
