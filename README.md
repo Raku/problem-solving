@@ -48,12 +48,12 @@ essential, but it is also  important to hear out good heroless ideas.
 
 ### Step 3: Discussion of the proposal
 
-After the initial proposal, everyone should discuss the idea and point
+After the initial proposal, everyone may discuss the idea and point
 out any flaws, implementation details, suggested changes, etc. that 
 they might see.  (Of course, both before and during step 3, people 
 can discuss the problem generally rather than a particular solution.)
 
-In step 3, anyone can comment, but two people have as especially 
+In step 3, anyone can comment, but two people have an especially 
 important role to play: the person who wrote the original proposal
 and the _assignee_ for the issue.
 
