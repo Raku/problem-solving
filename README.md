@@ -7,7 +7,7 @@ process in more detail.
 ## The Problem-Solving Process
 ### Step 1: Reporting a problem
 
-Anyone is welcome to create a new issue. The issue should *only*
+Anyone is welcome to report a problem by creating a new issue. The issue should *only*
 contain the description of the actual problem (X of the
 [XY](https://en.wikipedia.org/wiki/XY_problem)). The issue you
 create should start with a short description of the problem,
@@ -24,8 +24,8 @@ Rakudo compiler should be reported in
 
 If someone opens an issue that doesn't belong in Problem Solving,
 then anyone with sufficient GitHub permissions to do so should close
-the issue and direct the user to the correct place to address that 
-issue (e.g., the Rakudo repo).
+the issue and either direct the user to the correct place to address 
+this issue (e.g., the Rakudo repo) or open an issue themselves.
 
 ### Step 2: Initial proposed solution
 
@@ -48,7 +48,7 @@ essential, but it is also  important to hear out good heroless ideas.
 
 ### Step 3: Discussion of the proposal
 
-After the initial proposal, everyone may discuss the idea and point
+After the initial proposal, everyone is encoraged to discuss the idea and point
 out any flaws, implementation details, suggested changes, etc. that 
 they might see.  (Of course, both before and during step 3, people 
 can discuss the problem generally rather than a particular solution.)
