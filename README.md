@@ -48,7 +48,7 @@ essential, but it is also  important to hear out good heroless ideas.
 
 ### Step 3: Discussion of the proposal
 
-After the initial proposal, everyone is encoraged to discuss the idea and point
+After the initial proposal, everyone is encouraged to discuss the idea and point
 out any flaws, implementation details, suggested changes, etc. that 
 they might see.  (Of course, both before and during step 3, people 
 can discuss the problem generally rather than a particular solution.)
