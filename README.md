@@ -4,104 +4,153 @@
 that require discussion and/or consensus. This document describes the
 process in more detail.
 
+## The Problem-Solving Process
+### Step 1: Reporting a problem
 
-## Reporting a problem
-
-Anyone is welcome to create a new issue. The ticket should *only*
+Anyone is welcome to report a problem by creating a new issue. The issue should *only*
 contain the description of the actual problem (X of the
-[XY](https://en.wikipedia.org/wiki/XY_problem)). It is advised that
-you start your ticket with a short description of the problem and
-include more details afterwards.
+[XY](https://en.wikipedia.org/wiki/XY_problem)). The issue you
+create should start with a short description of the problem,
+followed by any additional details, if needed.
 
 This repository has broad scope, but not all problems belong
-here. For example, bugs in the Rakudo compiler should be reported in
+here – only problems where consensus needs to exist but doesn't yet.
+For example, if everyone already agrees on the proper approach to 
+solving a problem, then that issue isn't appropriate for this repo 
+(even if a few technical questions about the implementation still 
+need to be worked out).  As a more concrete example, bugs in the 
+Rakudo compiler should be reported in
 [rakudo repository](https://github.com/rakudo/rakudo/issues).
 
-## Initial proposal
+If someone opens an issue that doesn't belong in Problem Solving,
+then anyone with sufficient GitHub permissions to do so should close
+the issue and either direct the user to the correct place to address 
+this issue (e.g., the Rakudo repo) or open an issue themselves.
 
-Anyone is welcome to submit an initial proposal as a comment. Start
-your comment with “Initial proposal:” and follow with a short and
-clear description of the approach that can be used to resolve the
-problem. Include just enough details to paint the general picture and
-refrain from writing too much (which will be required for the next
-step, but not now).
+### Step 2: Initial proposed solution
 
-Good solutions resolve more than one problem, so link all other
+Anyone (including the person who opened the issue) can
+submit an initial proposal as a comment in reply to the issue. 
+
+To do so, start a comment with “Initial proposal:” and provide a short and
+clear description of the solution you're suggesting. Include just enough 
+details to paint the general picture and refrain from writing too much 
+(which will be required for the next step, but not now).
+
+Good solutions may resolve more than one problem: if so, link all other
 related problems that will be affected by your solution.
 
-If you know that you won't be able to work on a full solution, please
-indicate so in your comment. Having a hero is often more important
-than having a good idea, but it is also important to hear out good
-heroless ideas.
+By proposing a solution, you are _typically_ volunteering to implement 
+that solution.  If you know that you won't be able to work on a 
+full solution, please **say so when proposing that solution**. Having a 
+hero who will carry a solution though to implementation is often 
+essential, but it is also  important to hear out good heroless ideas.
 
+### Step 3: Discussion of the proposal
 
-### Assignees and their role
+After the initial proposal, everyone is encouraged to discuss the idea and point
+out any flaws, implementation details, suggested changes, etc. that 
+they might see.  (Of course, both before and during step 3, people 
+can discuss the problem generally rather than a particular solution.)
 
-Issues and PRs are labeled and assigned to corresponding devs (see
-[the list](#labels-and-responsible-devs)). The task of the assignee is
-to drive the process, provide vision and assist everyone
+In step 3, anyone can comment, but two people have an especially 
+important role to play: the person who wrote the original proposal
+and the _assignee_ for the issue.
+
+#### Assignees
+
+Issues are assigned to corresponding devs (see
+[the list](#labels-and-responsible-devs)). The assignee's job is
+to help drive the process, provide vision, and assist everyone
 involved. Assignees can provide feedback, ask for clarifications,
-suggest changes and so on as they see fit. They can also reject
-initial proposals early.
+suggest changes and so on as they see fit. 
 
-Labels and assignees are managed in different ways (automatically
-by a bot, manually, self-assignment, etc).
+Assignees can provide feedback on an initial solution, provide guidance
+about what the full solution should include (e.g. what should be
+covered in the document, additional requirements, etc). They can also 
+reject initial proposals at step 3 (though this shouldn't happen often).
 
 If an assignee is pleased with the initial proposal, they can ask to
-submit a fullblown solution. This moves us to the next step. Assignees
-should provide their expectations of the solution (e.g. what should be
-covered in the document, additional requirements, etc).
-
-
-## Submitting a solution
-
-PRs can only be submitted once all previous stages are completed. PRs
-should be submitted in `Raku/problem-solving` repository. The
-document in the PR should act as a documentation for the solution (as
-it will also be read later after it is accepted). This time all
-details should be provided. Keep your document consistent with other
-files in the repository (naming, directory structure, markup and so
-on).
-
-Assignees will request changes that are necessary to finalize the
-solution. Note that this process may require an actual implementation
-(if applicable) and other efforts (possibly in other repos) if so is
-required by the assignee.
-
-If there are common principles that are used for a particular label,
-assignees are welcome to compose a document in order to avoid
-repeating themselves.
-
-Note that all people (even non-devs) who have enough experience in
-affected areas are welcome to provide feedback. That being said, the
-assignee has the final word on decisions in the issue/PR, so they are
-free to engage in discussions as they see fit. In rare cases they can
-moderate/lock the discussion if doing so is unavoidable.
-
-Once the assignee is happy with the proposal, the process moves to the
+submit a fullblown solution.  Alternatively, if the person who suggested 
+the solution feels they have received enough feedback, they can decide to
+submit a full solution.  Either way, submitting a solution moves us to the
 next step.
 
 
-## Acceptance
+### Step 4: Submitting a full solution
 
-A review is requested from all of the reviewers (see
-[the list](#reviewers)). This step exists to ensure peer-review and to
-notify the devs of the major upcoming changes. By approving a PR the
-dev confirms that they reviewed and understood the proposal, and that
-they are OK with it. This is also the last chance to express concerns
-and present feedback (though it is encouraged to do that before this
-step is reached).
+After a problem/solution has been discussed sufficiently, someone should
+submit a Pull Request with a detailed proposal that would solve the problem.  
+This PR should add a document to the "solutions" directory in this repo.
+Typically, the solution will come after a user has officially proposed an
+initial solution (as described in Step 2, above) and, typically, the PR would
+be written by the same user who wrote that initial solution.
 
-It is expected that all reviewers will understand the reasoning of the
-solution and in the end all of them will approve the PR. This may
-require time, discussion, and minor adjustments, but if it happens
-that the discussion doesn't lead to mutual understanding, the BDFL may
-step in.
+However, neither of these part of the above is _absolutely_ required.  For 
+example, if someone writes an initial solution but doesn't have time (or no
+longer has time) to work on implementing the solution, it's fine for someone 
+who does have time to submit the PR.  Similarly, if an initial solution has 
+been discussed without anyone _formally_ writing an "initial solution" comment,
+someone who was involved in that discussion can step forward and draft a PR. 
+(This can sometimes happen when one user has a partial solution and other
+users add to it without anyone drafting a formal initial solution.)  That said,
+it's still better to have a written initial solution and for the PR to be written
+by the same person.
 
-This is the final step. Once the PR is merged, it is expected that
-corresponding efforts (e.g. PRs in other repos) are merged too, and
-the future work is already outlined. This is the last step.
+The PR should act as a documentation for the solution and should provide
+all details that are required to implement the solution. Keep your document
+consistent with other files in the solutions directory (naming, directory
+structure, markup and so on).
 
+At this point, anyone can provide feedback on the full solution and, if
+desired, the PR author can revise the PR based on that feedback.
+
+
+### Step 5: Solution resolution
+
+Once someone has submitted a PR, it can be resolved in one of 4 ways:
+
+1. Consensus acceptance
+2. Speedy acceptance
+3. Acceptance without consensus
+4. Non-acceptance
+
+#### Consensus acceptance
+
+The most common way for a proposal to be accepted is for the discussion to
+proceed to a point where a consensus exists in favor of the solution.  A 
+consensus does not require _unanimity_, but it should be clear that the
+Raku community as a whole supports the solution.  In particular, if 14 days
+pass between the time when the PR (or the latest revision of the PR, if it's 
+edited) was proposed and none of the [reviewers](#reviewers) (listed below) 
+have objected, then the proposer of the PR can use their judgement to determine
+whether consensus exists.  However, if any of the reviewers objects to the PR's 
+solution or 14 days have not yet passed, then consensus does *not* support
+that solution.
+
+#### Speedy acceptance
+
+If all reviewers approve a solution, then it can be accepted even if 14 days
+have not passed.
+
+#### Acceptance without consensus
+
+In **very** rare cases, a PR's solution can be accepted even when the Raku
+community cannot reach consensus.  When the Problem Solving process was first
+adopted, the way Raku solved problems when consensus couldn't be reached was by
+an action by the Benevolent Dictator for Life (Larry Wall).  After the [Raku 
+Steering Council Code](https://github.com/Raku/Raku-Steering-Council/blob/main/papers/Raku_Steering_Council_Code.md) 
+was adopted, the process for resolving deadlock shifted to the RSC as 
+described in that document.  In either case, this power should be exercised 
+only as a last resort and in extremely exceptional cases.
+
+#### Non-acceptance
+
+If a solution is not accepted by any of the methods described above, then 
+it is not accepted.  Arguably, this isn't a resolution at all – the problem
+remains unsolved and the issue stays open.  But that particular solution
+has failed to gain acceptance (though, of course, a different solution or 
+even a revised version of the same solution could later be accepted).
 
 
 ## Edge cases and other notes
@@ -120,13 +169,10 @@ the future work is already outlined. This is the last step.
 * If a shortcut receives any criticism from the corresponding
   development team or other affected parties, it can be reverted and
   the full formal process should begin.
-* If a reviewer does not respond in 14 days, they are removed from the
-  list of reviewers on that PR.
 * Passing the assignee status is allowed provided that the receiving
   party agrees. One-time assignees are allowed through this process.
 * People are allowed to be assigned to their own PRs.
-* If everything else fails, BDFL can force any change as they
-  like, though this should only be used in exceptional cases.
+
 
 
 ## Labels and responsible devs
