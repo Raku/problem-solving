@@ -8,4 +8,6 @@ This solution is based on the numerous responses to issue #263, and in particula
 
 Accordingly, the Raku community would like to formally request that Yet Another Society create a "doing-business-as" for YAS under the name "The Raku Foundation".  Using the name "The Raku Foundation" has been the plan for [quite some time](https://github.com/Raku/problem-solving/blob/master/solutions/language/Path-to-Raku.md#relationship-with-the-perl-foundation) and has many advantages for both the Perl and Raku communities.  Most immediately, it would allow Raku to present a foundation to the world without using a name that requires immediate explanation of the history of Raku and Perl.  Longer term, we believe that this move will benefit both language communities by showing that each language is pursuing an independent future.
 
+## Status update, September 2021
+
 Eventually, Yet Another society answered in [September 2nd, 2021 granting the "DBA" (doing business as) The Raku Foundation](https://news.perlfoundation.org/post/raku-foundation-and-tm-update). As of today, October 2nd, 2021, the Raku Foundation is active and will soon have its own website.
