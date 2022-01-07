@@ -19,14 +19,18 @@ Two new types are to be added to the Raku language:
 - `ValueList` to represent immutable positional value type
 - `ValueMap` to represent immutable associative value type
 
-Both types are characterized by forcible de-containerization of any object,
-stored in them. For example, here is how it must work with lists:
+Both types are characterized by forcible scalar de-containerization of any
+object, stored in them. For example, here is how it must work with lists:
 
     my $val = 42;
     my $l := List.new($val);
     say $l[0].VAR.^name; # Scalar
     my $vl := ValueList.new($val);
     say $vl[0].VAR.^name; # Int
+
+It also means that for any `Value*`-type structures instances of any non-value
+type classes, including but not limited to `Array` and `Hash`, are considered
+the same value if they're the same object, not if their content is identical.
 
 ## Reasoning 
 
