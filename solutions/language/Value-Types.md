@@ -32,6 +32,12 @@ It also means that for any `Value*`-type structures instances of any non-value
 type classes, including but not limited to `Array` and `Hash`, are considered
 the same value if they're the same object, not if their content is identical.
 
+### Parametrization
+
+The `Value*` types must remain non-parameterizable. Alongside with `List` and
+`Map` they must provide basic functionality, sufficient to be extended with
+their sub-classes in ways `Array` and `Hash` do it.
+
 ## Reasoning 
 
 Provide means for operators like `===`, types like `QuantHash`-es, and other
