@@ -19,13 +19,10 @@ There are about 95 modules in the raku-community-modules repo that still need mi
 Any module authors still not having moved their modules to the zef ecosystem by July 1st 2022, should be informed with a i**single** issue that lists the modules in question.  This could be an issue in the problem solving repo, but another repo would work as well.  The module authors should also be able to indicate they no longer wish to support a module themselves: in that case, a move to the raku-community-modules repo should be considered.
 
 - Stop the ecosystem harvesters on January 1st, 2023
-Stop running the ecosystem harvesters of p6c and CPAN.  This will effectively disregard any updates of any modules on those ecosystems.  But any updates with a new version would still become visible in the REA, as that runs its own harvester.
+Stop running the ecosystem harvesters of p6c and CPAN, both the zef one as well as the one run for the REA.  This will effectively disregard any updates of any modules on those ecosystems.
 
 - Offer to move any remaining modules to raku-community-modules
 Any authors still having modules in the p6c and CPAN ecosystems, should be offered help in moving their modules to zef and/or the raku-community-modules repo (which would then be followed by a move to the zef ecosystem).
-
-- Stop the REA harvester on July 1st, 2023
-Stop running the REA harvester: this would make the p6c and CPAN ecosystems truly sunsetted.
 
 - Security updates on remaining modules
 Any module remaining in the p6c and CPAN ecosystem, should be forked in the raku-community-modules repo and re-released with a version bump if a security update to these, clearly abandoned modules, is necessary.
