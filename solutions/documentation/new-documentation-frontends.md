@@ -53,13 +53,9 @@ And add the following section to `CONTRIBUTING.md`:
 ## Adding an alternate version
 
 Anyone can submit an alternate frontend for the Raku documentation so long as it
-is built from the source in this repo.  To do so, please submit a PR with the
-name of your site and the base URL at which it is avalible.  Once that PR is
-merged, the URL `docs.$your-site-name.raku.org` will proxy to your site and your
-site will
+is built from the source in this repo.
 
-To add your own presentation of the documentation in this repo, please submit a
-PR with the name of your site and its base URL.  When merged,
+To do so, please submit a PR with the name of your site and its base URL.  When merged,
 `docs.$your-site-name.raku.org` will mirror to your site and your site will be
 added to the list in the `README` for this repo.
 
