@@ -191,7 +191,7 @@ to be added as a responsible dev.
 * `documentation` – big changes to
   [Raku documentation](https://github.com/Raku/doc/) and other learning
   resources
-  * [@JJ](https://github.com/JJ)
+  * [@coke](https://github.com/coke)
 * `unicode` – Unicode and encoding/decoding
   * [@samcv](https://github.com/samcv)
 * `infrastructure` - servers, hosting, cloud, monitoring, backup and automation
