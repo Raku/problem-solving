@@ -3,7 +3,7 @@ name: Report a documentation problem
 about: Big changes to Raku documentation and other learning resources
 title: ''
 labels: 'documentation'
-assignees: 'JJ'
+assignees: 'coke'
 
 ---
 
