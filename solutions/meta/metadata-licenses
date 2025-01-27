@@ -1,0 +1,3 @@
+Requiring metadata licenses for new modules in the ecosystem, is deemed to be too premature and too troublesome for what it may bring.  Especially since the license is supposed to be as permissive as possible.
+
+Therefore this will **not** become a requirement.  And thus https://github.com/Raku/problem-solving/issues/19 can be closed.
